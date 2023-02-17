@@ -1,0 +1,8 @@
+ssh 路由器，执行
+uci set glfan.@globals[0].temperature='50'
+uci set glfan.@globals[0].intergration='4'
+uci set glfan.@globals[0].differential='20'
+uci commit glfan
+/etc/init.d/gl_fan restart
+
+https://forum.gl-inet.cn/forum.php?mod=viewthread&tid=400&fromuid=1435%202
