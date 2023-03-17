@@ -1,6 +1,7 @@
 #!/bin/bash
 
 #判断系统
+#参照https://ssr.tools/1492
 if [ ! -e '/etc/redhat-release' ]; then
 echo "仅支持centos7"
 exit
