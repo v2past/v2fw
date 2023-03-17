@@ -2,6 +2,7 @@
 
 #判断系统
 #参照https://ssr.tools/1492
+#参照https://github.com/hwdsl2/wireguard-install/blob/master/README-zh.md
 if [ ! -e '/etc/redhat-release' ]; then
 echo "仅支持centos7"
 exit
