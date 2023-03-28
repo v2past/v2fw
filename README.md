@@ -4,4 +4,4 @@ bash iptables-forward.sh
 接码平台
 https://www.supercloudsms.com/en/
 
-t.me/awsmail
+https://t.me/awsmail
