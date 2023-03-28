@@ -1,0 +1,1406 @@
+┣━暗月2021
+┃  ┣━归档整理资料
+┃  ┃  ┣━11WEB安全快速学习班_拿WEBSHELL篇8课
+┃  ┃  ┃  ┣━01拿WEBSHELL篇 dedecms后台拿WEBSHELL
+┃  ┃  ┃  ┣━06拿WEBSHELL篇 南方数据后台拿WEBSHELL
+┃  ┃  ┃  ┣━07拿WEBSHELL篇 无忧企业系统拿WEBSHELL
+┃  ┃  ┃  ┣━05拿WEBSHELL篇 xycms后台拿WEBSHELL
+┃  ┃  ┃  ┃  ┣━拿WEBSHELL篇 xycms后台拿WEBSHELL.docx
+┃  ┃  ┣━10WEB安全快速学习班第六章 提权篇17课
+┃  ┃  ┃  ┣━WEB安全第六章 提权篇14 FileZilla 提权
+┃  ┃  ┃  ┃  ┣━WEB安全第六章 提权篇 FileZilla 提权.docx
+┃  ┃  ┃  ┃  ┣━sethc.exe
+┃  ┃  ┃  ┣━WEB安全第六章提权篇12 mof提权
+┃  ┃  ┃  ┃  ┣━mof.php
+┃  ┃  ┃  ┣━WEB安全第六章 提权篇15 metasploit windows提权
+┃  ┃  ┃  ┃  ┣━WEB安全第六章 提权篇 metasploit windows提权.docx
+┃  ┃  ┃  ┣━WEB安全第六章提权篇02 LINUX SUID提权
+┃  ┃  ┃  ┣━WEB安全第六章提权篇10 winserver2008R2溢出提权
+┃  ┃  ┃  ┃  ┣━CVE-2014-4113-Exploit.zip
+┃  ┃  ┃  ┣━WEB安全第六章提权篇01 LINUX 内核漏洞提权
+┃  ┃  ┃  ┃  ┣━WEB安全第六章 提权篇 LINUX 内核漏洞提权.docx
+┃  ┃  ┃  ┃  ┣━37292.c
+┃  ┃  ┃  ┃  ┣━exp.c
+┃  ┃  ┃  ┣━WEB安全第六章提权篇06 windows系统溢出提权
+┃  ┃  ┃  ┣━WEB安全第六章 提权篇13 zend反弹shell提权
+┃  ┃  ┃  ┣━WEB安全第六章 提权篇16 metasploit linux提权
+┃  ┃  ┃  ┃  ┣━WEB安全第六章 提权篇 metasploit linux提权 .docx
+┃  ┃  ┃  ┣━WEB安全第六章提权篇03 GNU C library 动态链接区 $ORIGIN 溢出提权
+┃  ┃  ┃  ┃  ┣━WEB安全第六章 提权篇 GNU C library 动态链接区 $ORIGIN 溢出提权 .docx
+┃  ┃  ┣━09WEB安全快速学习班第五章漏洞学习与挖掘18课
+┃  ┃  ┃  ┣━WEB安全第五章 漏洞学习与利用08命令执行漏洞与利用
+┃  ┃  ┃  ┃  ┣━WEB安全五章 漏洞学习与利用 命令执行漏洞与利用.docx
+┃  ┃  ┃  ┣━WEB安全第五章 漏洞学习与利用10ssrf漏洞和利用
+┃  ┃  ┃  ┃  ┣━WEB安全第五章 漏洞学习与利用 ssrf漏洞和利用.docx
+┃  ┃  ┃  ┃  ┣━ssrf
+┃  ┃  ┃  ┣━WEB安全第五章 漏洞学习与利用02xss利用平台搭建
+┃  ┃  ┃  ┃  ┣━最新完善版XSS平台源码 【40多个模块】.rar
+┃  ┃  ┃  ┣━WEB安全第五章 漏洞学习与利用09CSRF漏洞和利用
+┃  ┃  ┃  ┃  ┣━csrf.html
+┃  ┃  ┣━05WEB安全快速学习班第一章 信息收集篇6课
+┃  ┃  ┣━04WEB安全快速学习班_基础知识学习8课
+┃  ┃  ┃  ┣━基础知识06 安装kali和配置
+┃  ┃  ┃  ┃  ┣━安装kali和配置.docx
+┃  ┃  ┃  ┣━基础知识03 端口协议
+┃  ┃  ┃  ┃  ┣━wireshark64_3987.com.rar
+┃  ┃  ┣━03WEB安全快速学习班_数据库学习七课
+┃  ┃  ┃  ┣━数据库学习01 Mysql数据库的基本操作
+┃  ┃  ┃  ┣━数据库学习05 Mysql数据库子查询
+┃  ┃  ┣━01WEB安全快速学习班_HTML基础学习5课
+┃  ┃  ┃  ┣━HTML基础学习五HTML基础 列表标签和框架的使用
+┃  ┃  ┃  ┃  ┣━web001
+┃  ┃  ┃  ┃  ┃  ┣━js
+┃  ┃  ┃  ┃  ┃  ┣━aa.html
+┃  ┃  ┃  ┃  ┃  ┣━form.html
+┃  ┃  ┃  ┃  ┃  ┣━img
+┃  ┃  ┃  ┃  ┃  ┣━img.html
+┃  ┃  ┃  ┃  ┃  ┣━frame.html
+┃  ┃  ┃  ┣━HTML基础学习三 HTML基础 a标签、img标签、table表格使用
+┃  ┃  ┃  ┣━HTML基础学习二 HTML基础 form表单与input标签使用
+┃  ┃  ┃  ┃  ┣━HTML基础学习.txt
+┃  ┃  ┃  ┣━HTML基础学习一HTML基础常用标签学习
+┃  ┃  ┃  ┃  ┣━web001
+┃  ┃  ┃  ┃  ┃  ┣━.project
+┃  ┃  ┃  ┃  ┣━HBuilder.9.0.2.windows.zip
+┃  ┃  ┃  ┣━HTML基础学四 HTML基础单选框、复选框、下拉选择框、文本域使用
+┃  ┃  ┃  ┃  ┣━HTML基础学习.txt
+┃  ┃  ┃  ┃  ┣━web001
+┃  ┃  ┃  ┃  ┃  ┣━css
+┃  ┃  ┃  ┃  ┃  ┣━input.html
+┃  ┃  ┃  ┃  ┃  ┣━index.html
+┃  ┃  ┃  ┃  ┃  ┣━form.html
+┃  ┃  ┃  ┃  ┃  ┣━img
+┃  ┃  ┃  ┃  ┃  ┣━.project
+┃  ┃  ┃  ┃  ┃  ┣━js
+┃  ┃  ┃  ┃  ┃  ┃  ┣━form.html
+┃  ┃  ┃  ┃  ┃  ┣━new_file.html
+┃  ┃  ┣━02WEB安全快速学习班_div+css学习11课
+┃  ┃  ┃  ┣━div+css基础学习三 列表和超链接伪类
+┃  ┃  ┃  ┃  ┣━div
+┃  ┃  ┃  ┃  ┃  ┣━demo2.html
+┃  ┃  ┃  ┃  ┃  ┣━css
+┃  ┃  ┃  ┃  ┃  ┃  ┣━css.css
+┃  ┃  ┃  ┃  ┃  ┃  ┣━style.css
+┃  ┃  ┃  ┃  ┃  ┣━.project
+┃  ┃  ┃  ┃  ┃  ┣━demo3.html
+┃  ┃  ┃  ┃  ┃  ┣━js
+┃  ┃  ┃  ┣━div+css基础学习五 float浮动 块级元素 行内元素
+┃  ┃  ┃  ┃  ┣━div+css培训.docx
+┃  ┃  ┃  ┣━div+css04实战阿里云src响应中心主体内容下
+┃  ┃  ┃  ┣━div+css03实战阿里云src响应中心主体内容上
+┃  ┃  ┃  ┣━div+css01实战阿里云src响应中心头部
+┃  ┃  ┃  ┃  ┣━阿里巴巴src响应中心
+┃  ┃  ┃  ┃  ┃  ┣━js
+┃  ┃  ┃  ┃  ┃  ┣━css
+┃  ┃  ┃  ┃  ┃  ┣━index.html
+┃  ┃  ┃  ┣━div+css基础学习六 溢出和定位的使用
+┃  ┃  ┃  ┃  ┣━div+css培训.docx
+┃  ┃  ┃  ┣━div+css基础学习四  盒子模型 margin padding 的使用
+┃  ┃  ┣━06WEB安全快速学习班第二章 穷举篇13课
+┃  ┃  ┃  ┣━baopo.py
+┃  ┃  ┣━08WEB安全快速学习班第四章SQL注入篇24课
+┃  ┃  ┃  ┣━WEB安全第四章SQL注入篇04mysql+php手工注入篇
+┃  ┃  ┃  ┣━WEB安全第四章SQL注入篇14sqlserver备份拿WEBSHELL
+┃  ┃  ┃  ┃  ┣━WEB安全第四章 SQL注入sqlserver备份拿WEBSHELL.docx
+┃  ┃  ┃  ┣━WEB安全第四章SQL注入篇12sqlserver 快速爆表、爆列、爆数据
+┃  ┃  ┃  ┃  ┣━WEB安全第四章 SQL注入篇sqlserver 快速爆表、爆列、爆数据.docx
+┃  ┃  ┃  ┣━WEB安全第四章SQL注入篇09mysql+php延时注入
+┃  ┃  ┃  ┃  ┣━WEB安全第四章SQL注入篇mysql+php 延时注入.docx
+┃  ┃  ┃  ┣━WEB安全第四章SQL注入篇11sqlserver 报错注入
+┃  ┃  ┃  ┣━WEB安全第四章SQL注入篇08报错注入读取文件
+┃  ┃  ┃  ┃  ┣━WEB安全第四章 SQL注入篇 报错注入读取文件.docx
+┃  ┃  ┃  ┣━WEB安全第四章SQL注入篇07mysql+php 报错注入
+┃  ┃  ┃  ┣━WEB安全第四章SQL注入篇02access+asp 逐字猜解法
+┃  ┃  ┃  ┃  ┣━WEB安全第四章 SQL注入篇 access+asp 逐字猜解法.docx
+┃  ┃  ┃  ┣━WEB安全第四章SQL注入篇16oracle+jsp联合查询注入
+┃  ┃  ┃  ┃  ┣━WEB安全第四章SQL注入篇oracle +jsp联合查询注入.docx
+┃  ┃  ┃  ┣━WEB安全第四章SQL注入篇03注入的注入类型的区分详解
+┃  ┃  ┃  ┃  ┣━request.php
+┃  ┃  ┃  ┣━WEB安全第四章 SQL注入篇23高级注入技巧 位移注入
+┃  ┃  ┃  ┃  ┣━WEB安全第四章 SQL注入篇 高级注入技巧 位移注入.docx
+┃  ┃  ┃  ┣━WEB安全第四章 SQL注入篇22sqlserver延时注入
+┃  ┃  ┃  ┃  ┣━WEB安全第四章 SQL注入篇sqlserver延时注入.docx
+┃  ┃  ┣━07WEB安全快速学习班第三章文件上传篇11篇
+┃  ┃  ┃  ┣━x.jpg
+┃  ┃  ┃  ┣━重写解析工具
+┃  ┃  ┃  ┃  ┣━.htaccess
+┃  ┃  ┃  ┣━upload、.txt
+┃  ┃  ┃  ┣━timg.jpg
+┃  ┃  ┃  ┣━WEB安全第三章文件上传篇.docx
+┃  ┃  ┣━25LKWA靶场学习与利用
+┃  ┃  ┣━24 redis安全攻防
+┃  ┃  ┃  ┣━redis-rogue-server-master
+┃  ┃  ┃  ┃  ┣━README.md
+┃  ┃  ┃  ┃  ┣━LICENSE
+┃  ┃  ┃  ┃  ┣━exp.so
+┃  ┃  ┃  ┣━Awsome-Redis-Rogue-Server-master
+┃  ┃  ┃  ┃  ┣━LICENSE
+┃  ┃  ┃  ┃  ┣━README.md
+┃  ┃  ┃  ┃  ┣━exp.so
+┃  ┃  ┃  ┃  ┣━.gitattributes
+┃  ┃  ┃  ┃  ┣━redis_rogue_server.py
+┃  ┃  ┃  ┣━网鼎杯2020 玄武组 WEB题SSRFME解题
+┃  ┃  ┃  ┃  ┣━网鼎杯2020 玄武组 WEB题SSRFME解题.mp4
+┃  ┃  ┃  ┣━redis攻防.docx
+┃  ┃  ┣━22 扫描器使用
+┃  ┃  ┃  ┣━xray与burpsutie联动自动挖掘漏洞
+┃  ┃  ┃  ┃  ┣━passive-scan-client.0.1.jar
+┃  ┃  ┃  ┃  ┣━config.yaml
+┃  ┃  ┃  ┃  ┣━ca.crt
+┃  ┃  ┃  ┃  ┣━burpsuite_pro_v2020.1
+┃  ┃  ┃  ┃  ┃  ┣━burp-loader-keygen-2020_1.jar
+┃  ┃  ┃  ┃  ┣━ca.key
+┃  ┃  ┃  ┃  ┣━xray_windows_amd64.exe
+┃  ┃  ┃  ┣━w13scan被动扫描器使用
+┃  ┃  ┃  ┃  ┣━W13SCAN
+┃  ┃  ┃  ┃  ┃  ┣━thirdpart
+┃  ┃  ┃  ┃  ┃  ┃  ┣━requests
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━__init__.py
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━__pycache__
+┃  ┃  ┃  ┃  ┃  ┃  ┣━console.py
+┃  ┃  ┃  ┃  ┃  ┃  ┣━__pycache__
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━__init__.cpython-37.pyc
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━console.cpython-37.pyc
+┃  ┃  ┃  ┃  ┃  ┃  ┣━simhash.py
+┃  ┃  ┃  ┃  ┃  ┃  ┣━__init__.py
+┃  ┃  ┃  ┃  ┃  ┣━plugins
+┃  ┃  ┃  ┃  ┃  ┃  ┣━PerFile
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━__init__.py
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━sql_inject_bool.py
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━struts2_045.py
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━command_asp_code.py
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━js_sensitive_content.py
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━sql_inject_error.py
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━redirect.py
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━struts2_048.py
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━crlf.py
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━struts2_032.py
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━struts2_016.py
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━webpack.py
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━command_php_code.py
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━command_system.py
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━struts2_033.py
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━php_real_path.py
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━struts2_005.py
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━struts2_015.py
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━struts2_057.py
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━struts2_053.py
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━xss.py
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━expression_language_injection.py
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━struts2_046.py
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━struts2_037.py
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━sql_inject_time.py
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━struts2_003.py
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━struts2_013.py
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━analyze_parameter.py
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━cookie.py
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━struts2_019.py
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━struts2_008.py
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━xpath_inject.py
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━__pycache__
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━normal_page.cpython-37.pyc
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━sql_inject_bool.cpython-37.pyc
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━__init__.cpython-37.pyc
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━php_real_path.cpython-37.pyc
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━struts2_015.cpython-37.pyc
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━directory_traversal.cpython-37.pyc
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━struts2_003.cpython-37.pyc
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━sql_inject_time.cpython-37.pyc
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━struts2_016.cpython-37.pyc
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━struts2_dev.cpython-37.pyc
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━webpack.cpython-37.pyc
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━struts2_008.cpython-37.pyc
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━struts2_053.cpython-37.pyc
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━struts2_037.cpython-37.pyc
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━jsonp.cpython-37.pyc
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━command_system.cpython-37.pyc
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━cookie.cpython-37.pyc
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━struts2_032.cpython-37.pyc
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━struts2_009.cpython-37.pyc
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━struts2_057.cpython-37.pyc
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━command_php_code.cpython-37.pyc
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━expression_language_injection.cpython-37.pyc
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━struts2_019.cpython-37.pyc
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━struts2_013.cpython-37.pyc
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━subdomain_found.cpython-37.pyc
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━directory_traversal.py
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━cors.py
+┃  ┃  ┃  ┃  ┃  ┃  ┣━PostScan
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━post_xss.py
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━post_command_system.py
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━post_info_collect.py
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━post_sql_inject_bool.py
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━post_comand_php_code.py
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━post_directory_traversal.py
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━post_sql_inject_time.py
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━__init__.py
+┃  ┃  ┃  ┃  ┃  ┃  ┣━PerScheme
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━backup_domain.py
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━http_smuggling.py
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━__pycache__
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━common_set.cpython-37.pyc
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━dzxss.cpython-37.pyc
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━backup_domain.cpython-37.pyc
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━errorpage.cpython-37.pyc
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━wordpress_backup.cpython-37.pyc
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━http_smuggling.cpython-37.pyc
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━flashxss.cpython-37.pyc
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━iis_parse.cpython-37.pyc
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━java_web.cpython-37.pyc
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━__init__.cpython-37.pyc
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━wappalyzer.cpython-37.pyc
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━flashxss.py
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━common_set.py
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━sensitive_folders.py
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━wordpress_backup.py
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━phpstudy_backdoor.py
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━directory_traversal.py
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━iis_parse.py
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━wappalyzer.py
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━dzxss.py
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━errorpage.py
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━__init__.py
+┃  ┃  ┃  ┃  ┃  ┃  ┣━__pycache__
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━__init__.cpython-37.pyc
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━loader.cpython-37.pyc
+┃  ┃  ┃  ┃  ┃  ┃  ┣━loader.py
+┃  ┃  ┃  ┃  ┃  ┃  ┣━PerFolder
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━htaccess_file.py
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━backup_folder.py
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━SFTP_Credentials_Exposure.py
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━web_editor.py
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━JetBrans_IDEA.py
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━__init__.py
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━phpinfo_craw.py
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━repository_leak.py
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━filescan.py
+┃  ┃  ┃  ┃  ┃  ┣━certs
+┃  ┃  ┃  ┃  ┃  ┃  ┣━baseproxy_cdn.staticfile.org.pem
+┃  ┃  ┃  ┃  ┃  ┃  ┣━baseproxy_07imgmini.eastday.com.pem
+┃  ┃  ┃  ┃  ┃  ┃  ┣━baseproxy_minipc.eastday.com.pem
+┃  ┃  ┃  ┃  ┃  ┃  ┣━baseproxy_nspt.bdstatic.com.pem
+┃  ┃  ┃  ┃  ┃  ┃  ┣━baseproxy_api2.firefoxchina.cn.pem
+┃  ┃  ┃  ┃  ┃  ┃  ┣━baseproxy_safebrowsing.googleapis.com.pem
+┃  ┃  ┃  ┃  ┃  ┃  ┣━baseproxy_player.bilibili.com.pem
+┃  ┃  ┃  ┃  ┃  ┃  ┣━baseproxy_gw.alicdn.com.pem
+┃  ┃  ┃  ┃  ┃  ┃  ┣━baseproxy_04imgmini.eastday.com.pem
+┃  ┃  ┃  ┃  ┃  ┃  ┣━baseproxy_www.moonsec.com.pem
+┃  ┃  ┃  ┃  ┃  ┃  ┣━baseproxy_push.services.mozilla.com.pem
+┃  ┃  ┃  ┃  ┃  ┃  ┣━baseproxy_shavar.services.mozilla.com.pem
+┃  ┃  ┃  ┃  ┃  ┃  ┣━ca.crt
+┃  ┃  ┃  ┃  ┃  ┃  ┣━baseproxy_pub.idqqimg.com.pem
+┃  ┃  ┃  ┃  ┃  ┃  ┣━baseproxy_services.addons.mozilla.org.pem
+┃  ┃  ┃  ┃  ┃  ┃  ┣━baseproxy_versioncheck-bg.addons.mozilla.org.pem
+┃  ┃  ┃  ┃  ┃  ┃  ┣━baseproxy_01imgmini.eastday.com.pem
+┃  ┃  ┃  ┃  ┃  ┃  ┣━baseproxy_redirector.gvt1.com.pem
+┃  ┃  ┃  ┃  ┃  ┃  ┣━__pycache__
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━__init__.cpython-37.pyc
+┃  ┃  ┃  ┃  ┃  ┃  ┣━baseproxy_tracking.firefox.com.cn.pem
+┃  ┃  ┃  ┃  ┃  ┃  ┣━baseproxy_tt-img.7654.com.pem
+┃  ┃  ┃  ┃  ┃  ┃  ┣━baseproxy_imgcdn.toutiaoyule.com.pem
+┃  ┃  ┃  ┃  ┃  ┃  ┣━baseproxy_03imgmini.eastday.com.pem
+┃  ┃  ┃  ┃  ┃  ┃  ┣━baseproxy_s1.hdslb.com.pem
+┃  ┃  ┃  ┃  ┃  ┃  ┣━baseproxy_incoming.telemetry.mozilla.org.pem
+┃  ┃  ┃  ┃  ┃  ┃  ┣━baseproxy_static.firefoxchina.cn.pem
+┃  ┃  ┃  ┃  ┃  ┃  ┣━baseproxy_pagead2.googlesyndication.com.pem
+┃  ┃  ┃  ┃  ┃  ┃  ┣━baseproxy_00imgmini.eastday.com.pem
+┃  ┃  ┃  ┃  ┃  ┃  ┣━baseproxy_addons.firefox.com.cn.pem
+┃  ┃  ┃  ┃  ┃  ┃  ┣━baseproxy_08imgmini.eastday.com.pem
+┃  ┃  ┃  ┃  ┃  ┃  ┣━baseproxy_05imgmini.eastday.com.pem
+┃  ┃  ┃  ┃  ┃  ┃  ┣━baseproxy_09imgmini.eastday.com.pem
+┃  ┃  ┃  ┃  ┃  ┃  ┣━baseproxy_06imgmini.eastday.com.pem
+┃  ┃  ┃  ┃  ┃  ┃  ┣━ca.pem
+┃  ┃  ┃  ┃  ┃  ┣━w13scan.exe
+┃  ┃  ┃  ┃  ┃  ┣━cli.py
+┃  ┃  ┃  ┃  ┃  ┣━api
+┃  ┃  ┃  ┃  ┃  ┃  ┣━__init__.py
+┃  ┃  ┃  ┃  ┃  ┃  ┣━__pycache__
+┃  ┃  ┃  ┃  ┃  ┣━__pycache__
+┃  ┃  ┃  ┃  ┃  ┃  ┣━config.cpython-37.pyc
+┃  ┃  ┃  ┃  ┃  ┃  ┣━__init__.cpython-37.pyc
+┃  ┃  ┃  ┃  ┃  ┃  ┣━cli.cpython-37.pyc
+┃  ┃  ┃  ┃  ┃  ┣━data
+┃  ┃  ┃  ┃  ┃  ┃  ┣━__init__.py
+┃  ┃  ┃  ┃  ┃  ┃  ┣━wappalyzer.json
+┃  ┃  ┃  ┃  ┣━w13scan被动扫描器使用.doc
+┃  ┃  ┃  ┣━xray扫描器的使用
+┃  ┃  ┃  ┃  ┣━xray_windows_amd64.exe
+┃  ┃  ┃  ┃  ┣━xray扫描器的使用.doc
+┃  ┃  ┃  ┃  ┣━ca.crt
+┃  ┃  ┃  ┃  ┣━passive-scan-client.0.1.jar
+┃  ┃  ┃  ┃  ┣━1.ps1
+┃  ┃  ┃  ┃  ┣━proxy.html
+┃  ┃  ┣━21 SQL注入更新
+┃  ┃  ┃  ┣━SQL注入 原理篇.docx
+┃  ┃  ┃  ┣━SQL注入 mysql新版本手工注入.docx
+┃  ┃  ┃  ┣━SQL注入基础 布尔型blind注入.docx
+┃  ┃  ┃  ┣━SQL注入基础 布尔型blind注入
+┃  ┃  ┃  ┃  ┣━extend.gif
+┃  ┃  ┃  ┃  ┣━sql.py
+┃  ┃  ┃  ┃  ┣━asciifull.gif
+┃  ┃  ┃  ┣━SQL注入基础.pptx
+┃  ┃  ┣━18其他教程
+┃  ┃  ┣━17WEB资料归档整理 Empire篇6课
+┃  ┃  ┣━16WEB资料归档整理 Cobalt Strike 使用篇19课
+┃  ┃  ┣━15WEB资料归档整理安全第七章exp编写篇8课
+┃  ┃  ┣━14WEB资料归档整理_内网渗透篇7课
+┃  ┃  ┣━13WEB资料归档整理_社工篇7课
+┃  ┃  ┣━12WEB资料归档整理_拖库篇5课
+┃  ┃  ┣━11WEB资料归档整理_拿WEBSHELL篇8课
+┃  ┃  ┣━10WEB资料归档整理第六章 提权篇17课
+┃  ┃  ┣━09WEB资料归档整理第五章漏洞学习与挖掘18课
+┃  ┃  ┣━08WEB资料归档整理第四章SQL注入篇24课
+┃  ┃  ┣━07WEB资料归档整理第三章文件上传篇11篇
+┃  ┃  ┣━06WEB资料归档整理第二章 穷举篇13课
+┃  ┃  ┣━05WEB资料归档整理第一章 信息收集篇6课
+┃  ┃  ┣━04WEB资料归档整理_基础知识学习8课
+┃  ┃  ┣━03WEB资料归档整理_数据库学习七课
+┃  ┃  ┣━02WEB资料归档整理_div+css学习11课
+┃  ┃  ┣━01WEB资料归档整理_HTML基础学习5课
+┃  ┃  ┣━20 docker教程
+┃  ┃  ┃  ┣━docker的使用.docx
+┃  ┃  ┣━19靶机测试系列视频14课
+┃  ┃  ┃  ┣━暗月靶机系列测试视频03 Os-Hax
+┃  ┃  ┃  ┃  ┣━暗月靶机系列测试教程 Os-Hax .pdf
+┃  ┃  ┃  ┣━暗月靶机系列测试视频05 CyNix1
+┃  ┃  ┃  ┃  ┣━暗月靶机系列测试 CyNix1.pdf
+┃  ┃  ┃  ┣━暗月靶机系列测试视频04 Os-ByteSec
+┃  ┃  ┃  ┃  ┣━暗月靶机系列测试 Os-ByteSec.pdf
+┃  ┃  ┃  ┣━暗月靶机系列测试视频13 ReconForce
+┃  ┃  ┃  ┃  ┣━靶机系列测试 ReconForce.pdf
+┃  ┃  ┃  ┣━暗月靶机测试系列视频11 domdom
+┃  ┃  ┃  ┃  ┣━靶机系列测试 DomDom.pdf
+┃  ┃  ┃  ┣━观看本视频注意事项.txt
+┃  ┃  ┃  ┣━暗月靶机系列测试视频14 haclabs-no_name
+┃  ┃  ┃  ┃  ┣━靶机系列测试教程13 haclabs-no_name.pdf
+┃  ┃  ┃  ┣━暗月靶机系列测试视频08 Me and My Girlfriend 1
+┃  ┃  ┃  ┃  ┣━暗月靶机系列测教程 Me and My Girlfriend 1.pdf
+┃  ┃  ┃  ┣━暗月靶机测试系列视频02 trollcave
+┃  ┃  ┃  ┃  ┣━暗月靶机测试系列教程 trollcave.pdf
+┃  ┃  ┃  ┣━暗月靶机测试系列视频01 Os-hackNOs1
+┃  ┃  ┃  ┃  ┣━暗月靶机测试系列教程Os-hackNos-1.pdf
+┃  ┃  ┣━23 ctf web教程合集
+┃  ┃  ┃  ┣━序列化
+┃  ┃  ┃  ┃  ┣━02 反序列化_写shell
+┃  ┃  ┃  ┃  ┃  ┣━demo2
+┃  ┃  ┃  ┃  ┃  ┃  ┣━php.php
+┃  ┃  ┃  ┃  ┃  ┃  ┣━test.php
+┃  ┃  ┃  ┃  ┃  ┣━反序列化_写shell.doc
+┃  ┃  ┃  ┃  ┣━05 反序列化_CVE-2016-7124
+┃  ┃  ┃  ┃  ┃  ┣━反序列化_CVE-2016-7124.mp4
+┃  ┃  ┃  ┃  ┃  ┣━反序列化_CVE-2016-7124.doc
+┃  ┃  ┃  ┃  ┣━04 反序列化__wakeup
+┃  ┃  ┃  ┃  ┃  ┣━反序列化__wakeup.mp4
+┃  ┃  ┃  ┃  ┃  ┣━demo5
+┃  ┃  ┃  ┃  ┃  ┃  ┣━c1.php
+┃  ┃  ┃  ┃  ┃  ┃  ┣━index.php
+┃  ┃  ┃  ┃  ┃  ┃  ┣━str.php
+┃  ┃  ┃  ┃  ┃  ┃  ┣━demo.php
+┃  ┃  ┃  ┃  ┃  ┣━反序列化__wakeup.docx
+┃  ┃  ┃  ┃  ┣━07 网鼎杯2020 朱雀组 反序列化解题
+┃  ┃  ┃  ┃  ┃  ┣━demo7
+┃  ┃  ┃  ┃  ┃  ┃  ┣━demo.php
+┃  ┃  ┃  ┃  ┃  ┃  ┣━str.php
+┃  ┃  ┃  ┃  ┃  ┃  ┣━test.php
+┃  ┃  ┃  ┃  ┃  ┃  ┣━index.php
+┃  ┃  ┃  ┃  ┃  ┃  ┣━flag.php
+┃  ┃  ┃  ┃  ┃  ┣━网鼎杯2020 朱雀组 反序列化解题.doc
+┃  ┃  ┃  ┃  ┃  ┣━网鼎杯2020 朱雀组 反序列化解题.mp4
+┃  ┃  ┃  ┣━sql注入
+┃  ┃  ┃  ┃  ┣━05sql注入 ssrf 反序列化 组合攻击
+┃  ┃  ┃  ┃  ┃  ┣━sqli_ssrf_me.tar
+┃  ┃  ┃  ┃  ┃  ┣━sql注入 ssrf 反序列化 组合攻击.pdf
+┃  ┃  ┃  ┃  ┣━03留言板二次注入
+┃  ┃  ┃  ┃  ┃  ┣━sqli4.tar
+┃  ┃  ┃  ┃  ┃  ┣━www.cc999.com
+┃  ┃  ┃  ┃  ┃  ┃  ┣━config.php
+┃  ┃  ┃  ┃  ┃  ┃  ┣━reg.php
+┃  ┃  ┃  ┃  ┃  ┃  ┣━login.php
+┃  ┃  ┃  ┃  ┃  ┃  ┣━cc999.sql
+┃  ┃  ┃  ┃  ┃  ┃  ┣━index.php
+┃  ┃  ┃  ┃  ┣━04二次注入到绕过上传限制GETSHELL
+┃  ┃  ┃  ┃  ┃  ┣━二次注入到绕过上传限制GETSHELL.doc
+┃  ┃  ┃  ┃  ┃  ┣━二次注入到绕过上传限制GETSHELL.pdf
+┃  ┃  ┃  ┃  ┣━01用户信息二次注入
+┃  ┃  ┃  ┃  ┃  ┣━2020.07.11 公开课 SQL二次注入.zip
+┃  ┣━WEB渗透红队
+┃  ┃  ┣━WEB安全15 常见WEB漏洞篇
+┃  ┃  ┃  ┣━常规漏洞06远程命令执行命令执行漏洞的原理和攻击方法.mp4
+┃  ┃  ┃  ┣━常规漏洞01文件包含漏洞原理和利用.mp4
+┃  ┃  ┃  ┣━常规漏洞02文件包含日志getshell.mp4
+┃  ┃  ┃  ┣━常规漏洞08远程命令执行命令执行漏洞传递文件反弹shell和防御方案.mp4
+┃  ┃  ┃  ┣━常规漏洞05文件包含远程文件包含包含截断超长文件截断远程截断.mp4
+┃  ┃  ┃  ┣━常规漏洞03文件包含phpinfo文件包含临时文件.mp4
+┃  ┃  ┃  ┣━渗透测试手册WEB安全漏洞.pdf
+┃  ┃  ┃  ┣━常规漏洞07远程命令执行漏洞无回显外带通信技巧.mp4
+┃  ┃  ┃  ┣━文件包含工具.zip
+┃  ┃  ┃  ┣━常规漏洞04文件包含使用伪协议fileinputdatazip协议getshell.mp4
+┃  ┃  ┣━WEB安全01 HTML基础
+┃  ┃  ┃  ┣━HTML基础02form表单input标签属性.mp4
+┃  ┃  ┃  ┣━html工具和课件.zip
+┃  ┃  ┃  ┣━HBuilder_9.1.29.zip
+┃  ┃  ┃  ┣━HTML基础04无序列表和有序列表.mp4
+┃  ┃  ┃  ┣━HTML基础01HTML标签和文本属性.mp4
+┃  ┃  ┃  ┣━HTML基础03a标签img标签table标签.mp4
+┃  ┃  ┃  ┣━HTML基础05framesetframe框架的使用.mp4
+┃  ┃  ┣━Web安全06 数据库基础
+┃  ┃  ┃  ┣━mysql数据库01数据库的登陆退出创建删除.mp4
+┃  ┃  ┃  ┣━mysql数据库03数据的增删改查.mp4
+┃  ┃  ┃  ┣━mysql数据库05表的子查询.mp4
+┃  ┃  ┃  ┣━mysql数据库02表的创建属性约束修改删除.mp4
+┃  ┃  ┃  ┣━数据库mysql学习.doc
+┃  ┃  ┃  ┣━mysql数据库04数据的条件查询模糊查询分组查询.mp4
+┃  ┃  ┣━渗透测试09 信息收集篇
+┃  ┃  ┃  ┣━信息收集篇22资产侦察灯塔系统ARL收集资产信息.mp4
+┃  ┃  ┃  ┣━信息收集篇19隐藏资产hosts碰撞.mp4
+┃  ┃  ┃  ┣━信息收集篇16部署CDN的网站找真实IPAPP获取真实IP和微信小程序APP真实IP.mp4
+┃  ┃  ┃  ┣━信息收集篇06网站目录和文件的扫描.mp4
+┃  ┃  ┃  ┣━信息收集篇15部署CDN的网站找真实IP通过邮箱获取真实IP和F5LTM解码法获取真实IP.mp4
+┃  ┃  ┃  ┣━信息收集篇20goby资产扫描工具的使用收集资产信息.mp4
+┃  ┃  ┃  ┣━信息收集篇14部署CDN的网站找真实IPico图标找真实IP和SSLTLS与网络测绘找真实ip.mp4
+┃  ┃  ┃  ┣━信息收集篇10多种方法获取网站头信息中间件.mp4
+┃  ┃  ┃  ┣━信息收集篇12SSLTLS证书收集子域名移动资产收集社交相关信息收集.mp4
+┃  ┃  ┃  ┣━信息收集篇03子域名扫描工具的收集域名.mp4
+┃  ┃  ┃  ┣━信息收集篇05旁站和c段信息的收集.mp4
+┃  ┃  ┃  ┣━信息收集篇04端口扫描和端口服务探测.mp4
+┃  ┃  ┃  ┣━信息收集篇01信息收集的概述whois查询和反查天眼查.mp4
+┃  ┃  ┃  ┣━信息收集篇09网络空间引擎fofaGitHub谷歌hacking配合收集目标信息.mp4
+┃  ┃  ┃  ┣━文档.zip
+┃  ┃  ┃  ┣━信息收集篇08cms在线识别和是使用工具识别.mp4
+┃  ┃  ┃  ┣━信息收集篇21kali20201上安装docker和docker-compose.mp4
+┃  ┃  ┃  ┣━信息收集篇工具.zip
+┃  ┃  ┃  ┣━信息收集篇07目录扫描工具dirsearchgobusterdirbuster的使用.mp4
+┃  ┃  ┃  ┣━信息收集篇17部署CDN的网站找真实IP扫全网获取真实IP.mp4
+┃  ┃  ┃  ┣━信息收集篇02域名的记录分类和查询方法.mp4
+┃  ┃  ┃  ┣━信息收集篇11社工库查询信息邮箱注册信息收集js敏感文件收集.mp4
+┃  ┃  ┃  ┣━信息收集篇13部署CDN的网站找真实IPcdn的判断dns记录子域名解析.mp4
+┃  ┃  ┃  ┣━信息收集篇18部署CDN的网站找真实IP通过服务器和网站baner信息获取真实IP.mp4
+┃  ┃  ┣━WEB安全05 php基础
+┃  ┃  ┃  ┣━php基础22php正则表达式特殊字符的使用.mp4
+┃  ┃  ┃  ┣━php基础21php正则表达式元字符.mp4
+┃  ┃  ┃  ┣━php基础23php与mysql增删改查.mp4
+┃  ┃  ┃  ┣━PHP基础16PHP服务端包含文件include.mp4
+┃  ┃  ┃  ┣━PHP基础19命名空间访问方式非限定名称限定名称完全限定名称.mp4
+┃  ┃  ┃  ┣━PHP基础11PHP类的继承.mp4
+┃  ┃  ┃  ┣━PHP基础10php的构造函数与析构函数.mp4
+┃  ┃  ┃  ┣━PHP基础17文件的操作文件的创建删除修改复制.mp4
+┃  ┃  ┃  ┣━PhpStorm-2020.3.2.exe
+┃  ┃  ┃  ┣━PHP基础06php条件控制语句循环控制语句.mp4
+┃  ┃  ┃  ┣━PHP基础02PHP的五种数组类型.mp4
+┃  ┃  ┃  ┣━WB安全  php基础.doc
+┃  ┃  ┃  ┣━phpStudy_64.zip
+┃  ┃  ┃  ┣━PHP基础05php运算符.mp4
+┃  ┃  ┃  ┣━PHP基础12PHP类的成员访问控制公有受保护私有三种属性.mp4
+┃  ┃  ┃  ┣━PHP基础13PHP接口和抽象类.mp4
+┃  ┃  ┃  ┣━PHP基础14PHP类中的staticfinalparentself的使用.mp4
+┃  ┃  ┃  ┣━PHP基础17文件的操作文件的创建删除修改复制补充.mp4
+┃  ┃  ┃  ┣━PHP基础07PHP的函数.mp4
+┃  ┃  ┃  ┣━PHP基础20命名空间use引入的使用.mp4
+┃  ┃  ┃  ┣━PHP基础15PHP超级全局变量讲解.mp4
+┃  ┃  ┃  ┣━PHP基础03自定义常量预定义常量字符串处理.mp4
+┃  ┃  ┃  ┣━PHP基础09类与对象.mp4
+┃  ┃  ┃  ┣━PHP基础18文件的属性和文件目录递归.mp4
+┃  ┃  ┃  ┣━PHP基础08php变量的作用域.mp4
+┃  ┃  ┃  ┣━PHP基础01PHPPhpStormphpstudy的安装.mp4
+┃  ┃  ┃  ┣━PHP基础04数组的操作遍历增删改.mp4
+┃  ┃  ┣━渗透测试10 穷举篇
+┃  ┃  ┃  ┣━渗透测试穷举篇08针对有验证码后台的穷举验证码没有销毁可复用.mp4
+┃  ┃  ┃  ┣━渗透测试穷举篇16xhydra穷举工具破解各种服务.mp4
+┃  ┃  ┃  ┣━渗透测试穷举篇02NAT环境下的12server2dns服务器的配置.mp4
+┃  ┃  ┃  ┣━渗透测试穷举篇20用MailCracker进行破解企业独立搭建的邮服.mp4
+┃  ┃  ┃  ┣━渗透测试穷举篇17metasploite穷举模块的使用.mp4
+┃  ┃  ┃  ┣━渗透测试穷举篇05burpsuite使用宏对有token防御的网站后台穷举破解密码.mp4
+┃  ┃  ┃  ┣━渗透测试穷举篇18御剑RDP爆破工具的使用.mp4
+┃  ┃  ┃  ┣━渗透测试穷举篇15hydra密码穷举工具对常见的服务穷举redismssql.mp4
+┃  ┃  ┃  ┣━渗透测试穷举篇09网站后台验证码识别穷举密码.mp4
+┃  ┃  ┃  ┣━渗透测试穷举篇11burpsuite一句话木马后门破解.mp4
+┃  ┃  ┃  ┣━渗透测试穷举篇24超级弱口令穷举使用.mp4
+┃  ┃  ┃  ┣━渗透测试穷举篇 09 网站后台验证码识别穷举密码(2).mp4
+┃  ┃  ┃  ┣━渗透测试穷举篇19wfuzz使用百万字典对后台密码穷举.mp4
+┃  ┃  ┃  ┣━渗透测试穷举篇21针对163qq这些邮箱用mail脚本进行穷举.mp4
+┃  ┃  ┃  ┣━渗透测试穷举篇.pdf
+┃  ┃  ┃  ┣━渗透测试穷举篇22CobaltStrikeTeamServer口令暴力破解.mp4
+┃  ┃  ┃  ┣━渗透测试穷举篇07针对有验证码后台的穷举不存在cookie不验证.mp4
+┃  ┃  ┃  ┣━渗透测试穷举篇12cheetah对一句后门密码穷举.mp4
+┃  ┃  ┃  ┣━渗透测试穷举篇23对apache-tomcat服务进行穷举.mp4
+┃  ┃  ┃  ┣━渗透测试穷举篇14hydra密码穷举工具对常见的服务穷举rdpsmbmysqlsshftphttp.mp4
+┃  ┃  ┃  ┣━渗透测试穷举篇06编写python脚本对有token防御的网站后台穷举破解密码.mp4
+┃  ┃  ┃  ┣━渗透测试穷举篇10phpmyadmin密码穷举.mp4
+┃  ┃  ┃  ┣━渗透测试穷举篇03burpsuite穷举后台密码.mp4
+┃  ┃  ┃  ┣━渗透测试穷举篇13wordpress博客系统用户密码穷举.mp4
+┃  ┃  ┃  ┣━渗透测试穷举篇04burpsuite对webshell穷举破解密码.mp4
+┃  ┃  ┃  ┣━渗透测试穷举篇01介绍与靶场的配置.mp4
+┃  ┃  ┃  ┣━穷举工具.zip
+┃  ┃  ┣━WEB安全02 div css基础
+┃  ┃  ┃  ┣━DIVCSS基础03文字和文本的属性.mp4
+┃  ┃  ┃  ┣━WEB安全02  DIV CSS基础.doc
+┃  ┃  ┃  ┣━DIVCSS基础01样式类型和样式选择器.mp4
+┃  ┃  ┃  ┣━DIVCSS基础03文字和文本的属性补充.mp4
+┃  ┃  ┃  ┣━DIVCSS基础02背景和边框.mp4
+┃  ┃  ┃  ┣━DIVCSS基础06float块级元素行内元素溢出处理补充.mp4
+┃  ┃  ┃  ┣━DIVCSS基础06float块级元素行内元素溢出处理.mp4
+┃  ┃  ┃  ┣━DIVCSS基础07三种定位和堆叠顺序.mp4
+┃  ┃  ┃  ┣━DIVCSS基础04列表样式和伪类超链接.mp4
+┃  ┃  ┃  ┣━divcss.zip
+┃  ┃  ┃  ┣━DIVCSS基础05盒子模型边框外边距内边距.mp4
+┃  ┃  ┣━WEB安全14 xss篇
+┃  ┃  ┃  ┣━WEB安全14XSS漏洞篇08xss编码绕过防御gpc绕过实体编码绕过alert绕过.mp4
+┃  ┃  ┃  ┣━WEB安全14XSS漏洞篇05xss攻击测试语句的详细讲解.mp4
+┃  ┃  ┃  ┣━WEB安全14XSS漏洞篇04DOM型xss漏洞原理.mp4
+┃  ┃  ┃  ┣━WEB安全14XSS漏洞篇07搭建xss漏洞利用平台与利用.mp4
+┃  ┃  ┃  ┣━WEB安全14XSS漏洞篇01xss漏洞的介绍、攻击危害和防御.mp4
+┃  ┃  ┃  ┣━WEB安全14XSS漏洞篇06xss加载远程攻击的paylod.mp4
+┃  ┃  ┃  ┣━WEB安全14XSS漏洞篇02反射型xss漏洞的原理和攻击.mp4
+┃  ┃  ┃  ┣━渗透测试手册WEB安全漏洞.pdf
+┃  ┃  ┃  ┣━WEB安全14XSS漏洞篇11实战挖掘xss漏洞.mp4
+┃  ┃  ┃  ┣━WEB安全14XSS漏洞篇12xss项目实战挖掘cmsxss漏洞.mp4
+┃  ┃  ┃  ┣━WEB安全14XSS漏洞篇09xss编码绕过防御js编码html编码jsunncode编码伪协议解码.mp4
+┃  ┃  ┃  ┣━WEB安全14XSS漏洞篇10xss实战挖掘反射性存储下dom型漏洞.mp4
+┃  ┃  ┃  ┣━xss篇工具.zip
+┃  ┃  ┃  ┣━WEB安全14XSS漏洞篇03存储型xss漏洞的原理.mp4
+┃  ┃  ┣━WEB安全12 SQL注入绕过技术篇
+┃  ┃  ┃  ┣━WEB安全篇SQL注入绕过技术实战14iis某狗绕过注入01GET整型注入.mp4
+┃  ┃  ┃  ┣━WEB安全篇SQL注入绕过技术13多种方式unionselect绕过.mp4
+┃  ┃  ┃  ┣━WEB安全篇SQL注入绕过技术实战17iis某狗绕过注入04POSTUNIONSELECT注入.mp4
+┃  ┃  ┃  ┣━WEB安全篇SQL注入绕过技术05符号绕过ascii字符对比绕过正则查询绕过.mp4
+┃  ┃  ┃  ┣━WEB安全篇SQL注入绕过技术10orderby绕过http相同参数请求绕过applicationjson绕过溢出绕过.mp4
+┃  ┃  ┃  ┣━WEB安全篇SQL注入绕过技术07分块传输绕过.mp4
+┃  ┃  ┃  ┣━WEB安全篇SQL注入绕过技术01替换空格字符绕过原理和方法.mp4
+┃  ┃  ┃  ┣━WEB安全篇SQL注入绕过技术实战16iis某狗绕过注入03GETUNIONSELECT注入.mp4
+┃  ┃  ┃  ┣━WEB安全篇SQL注入绕过技术04脚本语言特特性绕过逗号绕过substrmidjoinlike.mp4
+┃  ┃  ┃  ┣━WEB安全篇SQL注入绕过技术03添加库名绕过去重复绕过反引号绕过.mp4
+┃  ┃  ┃  ┣━WEB安全篇SQL注入绕过技术实战15iis某狗绕过注入02GET布尔型字符型注入.mp4
+┃  ┃  ┃  ┣━WEB安全13 文件上传篇
+┃  ┃  ┃  ┃  ┣━渗透测试手册-WEB安全漏洞.pdf
+┃  ┃  ┃  ┃  ┣━WEB安全13文件上传漏洞篇07大小写绕过上传.mp4
+┃  ┃  ┃  ┃  ┣━WEB安全13文件上传漏洞篇13图片后门绕过文件头检测上传.mp4
+┃  ┃  ┃  ┃  ┣━WEB安全篇工具.zip
+┃  ┃  ┃  ┃  ┣━WEB安全13文件上传漏洞篇03绕过前端js检测上传的两种方法.mp4
+┃  ┃  ┃  ┃  ┣━WEB安全13文件上传漏洞篇10利用windows环境的叠加特征绕过上传.mp4
+┃  ┃  ┃  ┃  ┣━WEB安全13文件上传漏洞篇12目录可控%00截断绕过上传GET和POST区别.mp4.mp4
+┃  ┃  ┃  ┃  ┣━WEB安全13文件上传漏洞篇04绕过contnet-type检测上传.mp4
+┃  ┃  ┃  ┃  ┣━WEB安全13文件上传漏洞篇06.htaccess重写解析绕过上传.mp4
+┃  ┃  ┃  ┃  ┣━WEB安全13文件上传漏洞篇08空格绕过上传和windows系统特征点绕过上传.mp4
+┃  ┃  ┃  ┃  ┣━WEB安全13文件上传漏洞篇05绕过黑名单上传.mp4
+┃  ┃  ┃  ┃  ┣━WEB安全13文件上传漏洞篇01文件上传漏洞的的危害和文件上传的修复方案.mp4
+┃  ┃  ┃  ┃  ┣━WEB安全13文件上传漏洞篇02任意文件上传漏洞和攻击方法.mp4
+┃  ┃  ┃  ┃  ┣━WEB安全13文件上传漏洞篇15文件名可控绕过上传种方法.mp4
+┃  ┃  ┃  ┃  ┣━WEB安全13文件上传漏洞篇09NTFS交换数据流DATA攻击绕过上传.mp4
+┃  ┃  ┃  ┃  ┣━WEB安全13文件上传漏洞篇11文件上传双写绕过上传.mp4
+┃  ┃  ┃  ┃  ┣━WEB安全13文件上传漏洞篇17文件上传通用检测方法和总结.mp4
+┃  ┃  ┃  ┃  ┣━WEB安全13文件上传漏洞篇14绕过图片二次渲染上传.mp4
+┃  ┃  ┃  ┃  ┣━WEB安全13文件上传漏洞篇16数组并接绕过上传.mp4
+┃  ┃  ┃  ┣━WEB安全篇SQL注入绕过技术11花扩号绕过换行绕过使用ALL或者DISTINCT绕过.mp4
+┃  ┃  ┃  ┣━WEB安全篇SQL注入绕过技术09利用multipartform-data绕过技巧.mp4
+┃  ┃  ┃  ┣━WEB安全篇 SQL注入绕过技术实战 15 iis某狗绕过注入02  GET 布尔型字符型注入(2).mp4
+┃  ┃  ┃  ┣━渗透测试手册-WEB安全漏洞.pdf
+┃  ┃  ┃  ┣━绕过安全狗的注入.txt
+┃  ┃  ┃  ┣━WEB安全篇SQL注入绕过技术08信任白名单绕过图片格式绕过pipline绕过.mp4
+┃  ┃  ┃  ┣━WEB安全篇SQL注入绕过技术06双关键词绕过二次编码绕过多参数拆分绕过.mp4
+┃  ┃  ┃  ┣━WEB安全篇SQL注入绕过技术12数据编码绕过ibm037url编码Unicode编码绕过.mp4
+┃  ┃  ┣━WEB安全08 渗透测试基础知识
+┃  ┃  ┃  ┣━01VMware Workstation虚拟机学习使用
+┃  ┃  ┃  ┃  ┣━VMware Workstation虚拟机学习使用.docx
+┃  ┃  ┃  ┃  ┣━VMware-workstation-full-16.0.0-16894299.exe
+┃  ┃  ┃  ┃  ┣━VMware Workstation虚拟机学习使用.mp4
+┃  ┃  ┃  ┣━04 虚拟机创建2012系统 并进行配置
+┃  ┃  ┃  ┃  ┣━Windows_Server_2012_R2_VL_with_Update_x64_CN_2018.04.iso
+┃  ┃  ┃  ┃  ┣━03 虚拟机创建2012系统 并进行配置.mp4
+┃  ┃  ┃  ┣━14渗透测试中常用windows命令
+┃  ┃  ┃  ┃  ┣━渗透测试中常用windows命令.txt
+┃  ┃  ┃  ┃  ┣━渗透测试中常用windows命令.mp4
+┃  ┃  ┃  ┣━00渗透测试扫盲篇
+┃  ┃  ┃  ┃  ┣━渗透测试前置知识 04 行业术语扫盲 .mp4
+┃  ┃  ┃  ┃  ┣━渗透测试前置知识 02 行业术语扫盲 hack视角.mp4
+┃  ┃  ┃  ┃  ┣━渗透测试前置知识 01 行业术语扫盲 hack视角.mp4
+┃  ┃  ┃  ┃  ┣━渗透测试前置知识 03 行业术语扫盲.mp4
+┃  ┃  ┃  ┃  ┣━渗透测试前置知识 05  行业术语扫盲 .mp4
+┃  ┃  ┃  ┣━03kali基础命令
+┃  ┃  ┃  ┃  ┣━linux文件详解.docx
+┃  ┃  ┃  ┃  ┣━03 kali的基础命令和文件夹和文本操作命令.mp4
+┃  ┃  ┃  ┃  ┣━05 kali 系统信息 网卡信息命令.mp4
+┃  ┃  ┃  ┃  ┣━02 kali文件夹和vi编辑器的使用.mp4
+┃  ┃  ┃  ┃  ┣━04 kali的搜索命令和用户组和用户命令.mp4
+┃  ┃  ┃  ┃  ┣━06 kali 常用的网络命令.mp4
+┃  ┃  ┃  ┃  ┣━07 kali linux文件属性和权限设置.mp4
+┃  ┃  ┃  ┃  ┣━kali的常用命令.md
+┃  ┃  ┃  ┃  ┣━01虚拟机创建2012系统 并进行配置.lxe
+┃  ┃  ┃  ┣━06burpsuite2.1中文版本的安装与java环境配置
+┃  ┃  ┃  ┃  ┣━Java 开发环境配置.docx
+┃  ┃  ┃  ┃  ┣━jdk8u202x64.zip
+┃  ┃  ┃  ┃  ┣━burpsuite2.1中文版本的安装与java环境配置.mp4
+┃  ┃  ┃  ┃  ┣━burpsuite_pron_v2.1.07.rar
+┃  ┃  ┃  ┣━11网站搭建-搭建博客系统
+┃  ┃  ┃  ┃  ┣━搭建https博客系统.mp4
+┃  ┃  ┃  ┃  ┣━搭建博客系统.doc
+┃  ┃  ┃  ┃  ┣━wordpress-5.7-zh_CN.zip
+┃  ┃  ┃  ┣━12渗透测试中的端口协议
+┃  ┃  ┃  ┃  ┣━端口协议.docx
+┃  ┃  ┃  ┃  ┣━渗透测试中的端口协议.mp4
+┃  ┃  ┃  ┣━09HTTP协议详细讲解
+┃  ┃  ┃  ┃  ┣━http请求与响应.pdf
+┃  ┃  ┃  ┃  ┣━HTTP协议详细讲解 02 保存状态 URL详解.mp4
+┃  ┃  ┃  ┃  ┣━HTTP协议详解.pdf
+┃  ┃  ┃  ┃  ┣━HTTP协议详细讲解 01 请求和响应.mp4
+┃  ┃  ┃  ┣━13搭建域环境
+┃  ┃  ┃  ┃  ┣━搭建域环境.doc
+┃  ┃  ┃  ┃  ┣━搭建域环境.mp4
+┃  ┃  ┃  ┣━02kali2021的安装和配置
+┃  ┃  ┃  ┃  ┣━02Kali的2021的安装和配置.mp4
+┃  ┃  ┃  ┃  ┣━kali2021的安装和配置.docx
+┃  ┃  ┃  ┣━05burpsuite2021.03安装使用
+┃  ┃  ┃  ┃  ┣━burp2021.03安装使用.docx
+┃  ┃  ┃  ┃  ┣━05burpsuite2021.03安装使用.mp4
+┃  ┃  ┃  ┃  ┣━Burp_Suite_Pro_v2021.3.7z
+┃  ┃  ┃  ┃  ┣━jdk-15.0.2_windows-x64_bin.exe
+┃  ┃  ┃  ┃  ┣━Burp_Suite_Pro_v2021.3
+┃  ┃  ┃  ┃  ┃  ┣━Burp_Suite_Pro_v2021.3_Loader_Keygen
+┃  ┃  ┃  ┃  ┃  ┃  ┣━BurpSuite_Professional.jar
+┃  ┃  ┃  ┃  ┃  ┃  ┣━WooyunSearch-1.0-SNAPSHOT-jar-with-dependencies.jar
+┃  ┃  ┃  ┃  ┃  ┃  ┣━config.json
+┃  ┃  ┃  ┃  ┃  ┃  ┣━HackBar.jar
+┃  ┃  ┃  ┃  ┃  ┃  ┣━shiroPoc-0.5-SNAPSHOT-jar-with-dependencies.jar
+┃  ┃  ┃  ┃  ┃  ┃  ┣━BurpSuitePro.exe
+┃  ┃  ┃  ┃  ┃  ┃  ┣━BurpSuiteSharpener-1.06-SNAPSHOT.jar
+┃  ┃  ┃  ┃  ┃  ┃  ┣━jre.zip
+┃  ┃  ┃  ┃  ┃  ┃  ┣━init.hae
+┃  ┃  ┃  ┃  ┃  ┃  ┣━chunked-coding-converter.0.2.1.jar
+┃  ┃  ┃  ┃  ┃  ┃  ┣━uninstall.exe
+┃  ┃  ┃  ┃  ┃  ┃  ┣━BurpSuiteLoader - CMD.jar
+┃  ┃  ┃  ┃  ┃  ┃  ┣━burpbrowser
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━88.0.4324.190
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━v8_context_snapshot.bin
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━Dictionaries
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━d3dcompiler_47.dll
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━libGLESv2.dll
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━chrome_100_percent.pak
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━LICENSE
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━nacl_irt_x86_64.nexe
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━88.0.4324.190.manifest
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━chrome.exe
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━notification_helper.exe
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━chrome_elf.dll
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━swiftshader
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━libGLESv2.dll
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━libGLESv2.dll.pdb
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━libEGL.dll.pdb
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━libEGL.dll
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━libGLESv2.dll.lib
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━libEGL.dll.lib
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━elevation_service.exe
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━resources.pak
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━MEIPreload
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━manifest.json
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━preloaded_data.pb
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━chrome_200_percent.pak
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━locales
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━hi.pak
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━th.pak.info
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━hr.pak
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━sl.pak
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━it.pak
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━bg.pak.info
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━ca.pak
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━cs.pak.info
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━ko.pak.info
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━pt-BR.pak
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━sv.pak.info
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━he.pak
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━et.pak.info
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━sw.pak.info
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━es-419.pak
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━kn.pak.info
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━am.pak
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━en-US.pak
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━fil.pak
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━es.pak
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━nl.pak
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━fa.pak.info
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━et.pak
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━mr.pak.info
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━fi.pak
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━ro.pak.info
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━vi.pak.info
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━de.pak.info
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━es-419.pak.info
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━ml.pak.info
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━id.pak
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━sv.pak
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━cs.pak
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━sl.pak.info
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━da.pak
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━ca.pak.info
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━ru.pak
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━sr.pak.info
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━ms.pak.info
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━es.pak.info
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━pt-BR.pak.info
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━fa.pak
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━fr.pak.info
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━fil.pak.info
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━fr.pak
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━ar.pak.info
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━lt.pak
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━ru.pak.info
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━zh-TW.pak.info
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━am.pak.info
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━en-GB.pak.info
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━sr.pak
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━tr.pak.info
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━hu.pak.info
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━it.pak.info
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━pl.pak.info
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━hi.pak.info
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━en-GB.pak
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━lv.pak
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━ja.pak.info
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━ar.pak
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━bn.pak.info
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━el.pak.info
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━uk.pak.info
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━sw.pak
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━zh-CN.pak
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━kn.pak
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━da.pak.info
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━hr.pak.info
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━mr.pak
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━nl.pak.info
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━bg.pak
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━ml.pak
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━pt-PT.pak.info
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━de.pak
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━en-US.pak.info
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━lv.pak.info
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━ko.pak
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━fi.pak.info
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━te.pak.info
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━th.pak
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━gu.pak
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━nb.pak
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━el.pak
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━lt.pak.info
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━ta.pak
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━te.pak
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━pt-PT.pak
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━bn.pak
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━id.pak.info
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━he.pak.info
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━zh-TW.pak
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━vi.pak
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━pl.pak
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━zh-CN.pak.info
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━tr.pak
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━hu.pak
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━ms.pak
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━ro.pak
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━ta.pak.info
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━ja.pak
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━sk.pak.info
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━gu.pak.info
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━nb.pak.info
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━sk.pak
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━uk.pak
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━chrome.dll
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━libEGL.dll
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━manifest.properties
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━chrome_proxy.exe
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━icudtl.dat
+┃  ┃  ┃  ┃  ┃  ┃  ┣━BurpSuiteLoader - GUI.jar
+┃  ┃  ┃  ┃  ┃  ┃  ┣━HaE-1.5.1.jar
+┃  ┃  ┃  ┃  ┃  ┃  ┣━jre
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━legal
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━java.desktop
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━freetype.md
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━harfbuzz.md
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━libpng.md
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━jpeg.md
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━ASSEMBLY_EXCEPTION
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━lcms.md
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━ADDITIONAL_LICENSE_INFO
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━colorimaging.md
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━giflib.md
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━LICENSE
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━mesa3d.md
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━jdk.crypto.ec
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━ASSEMBLY_EXCEPTION
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━LICENSE
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━ADDITIONAL_LICENSE_INFO
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━ecc.md
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━jdk.zipfs
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━LICENSE
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━ASSEMBLY_EXCEPTION
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━ADDITIONAL_LICENSE_INFO
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━jdk.unsupported
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━ADDITIONAL_LICENSE_INFO
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━LICENSE
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━ASSEMBLY_EXCEPTION
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━java.xml
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━xerces.md
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━dom.md
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━ASSEMBLY_EXCEPTION
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━bcel.md
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━jcup.md
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━LICENSE
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━ADDITIONAL_LICENSE_INFO
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━xalan.md
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━java.naming
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━LICENSE
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━ASSEMBLY_EXCEPTION
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━ADDITIONAL_LICENSE_INFO
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━java.compiler
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━LICENSE
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━ADDITIONAL_LICENSE_INFO
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━ASSEMBLY_EXCEPTION
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━java.logging
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━ASSEMBLY_EXCEPTION
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━ADDITIONAL_LICENSE_INFO
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━LICENSE
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━java.datatransfer
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━ADDITIONAL_LICENSE_INFO
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━ASSEMBLY_EXCEPTION
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━LICENSE
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━jdk.security.auth
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━ASSEMBLY_EXCEPTION
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━ADDITIONAL_LICENSE_INFO
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━LICENSE
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━jdk.crypto.cryptoki
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━ASSEMBLY_EXCEPTION
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━LICENSE
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━pkcs11cryptotoken.md
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━ADDITIONAL_LICENSE_INFO
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━pkcs11wrapper.md
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━java.instrument
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━ADDITIONAL_LICENSE_INFO
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━ASSEMBLY_EXCEPTION
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━LICENSE
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━java.sql.rowset
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━ASSEMBLY_EXCEPTION
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━LICENSE
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━ADDITIONAL_LICENSE_INFO
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━jdk.crypto.mscapi
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━LICENSE
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━ASSEMBLY_EXCEPTION
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━ADDITIONAL_LICENSE_INFO
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━java.base
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━cldr.md
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━ADDITIONAL_LICENSE_INFO
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━c-libutl.md
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━ASSEMBLY_EXCEPTION
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━LICENSE
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━unicode.md
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━asm.md
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━zlib.md
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━icu.md
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━aes.md
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━public_suffix.md
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━jdk.management
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━ADDITIONAL_LICENSE_INFO
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━ASSEMBLY_EXCEPTION
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━LICENSE
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━jdk.security.jgss
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━ASSEMBLY_EXCEPTION
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━ADDITIONAL_LICENSE_INFO
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━LICENSE
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━java.prefs
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━LICENSE
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━ASSEMBLY_EXCEPTION
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━ADDITIONAL_LICENSE_INFO
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━java.xml.crypto
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━santuario.md
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━LICENSE
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━ADDITIONAL_LICENSE_INFO
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━ASSEMBLY_EXCEPTION
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━java.se
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━ASSEMBLY_EXCEPTION
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━ADDITIONAL_LICENSE_INFO
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━LICENSE
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━java.management
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━ADDITIONAL_LICENSE_INFO
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━LICENSE
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━ASSEMBLY_EXCEPTION
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━java.scripting
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━LICENSE
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━ASSEMBLY_EXCEPTION
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━ADDITIONAL_LICENSE_INFO
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━java.security.sasl
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━ADDITIONAL_LICENSE_INFO
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━LICENSE
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━ASSEMBLY_EXCEPTION
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━java.transaction.xa
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━LICENSE
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━ADDITIONAL_LICENSE_INFO
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━ASSEMBLY_EXCEPTION
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━java.rmi
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━ASSEMBLY_EXCEPTION
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━LICENSE
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━ADDITIONAL_LICENSE_INFO
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━jdk.charsets
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━ASSEMBLY_EXCEPTION
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━LICENSE
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━ADDITIONAL_LICENSE_INFO
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━java.security.jgss
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━LICENSE
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━ADDITIONAL_LICENSE_INFO
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━ASSEMBLY_EXCEPTION
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━java.net.http
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━ADDITIONAL_LICENSE_INFO
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━ASSEMBLY_EXCEPTION
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━LICENSE
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━lib
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━fontconfig.properties.src
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━classlist
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━security
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━default.policy
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━blacklisted.certs
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━cacerts
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━public_suffix_list.dat
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━modules
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━psfont.properties.ja
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━tzdb.dat
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━jawt.lib
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━jvm.lib
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━jvm.cfg
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━jrt-fs.jar
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━psfontj2d.properties
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━fontconfig.bfc
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━tzmappings
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━release
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━conf
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━net.properties
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━logging.properties
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━security
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━policy
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━limited
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━exempt_local.policy
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━default_US_export.policy
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━default_local.policy
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━unlimited
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━default_US_export.policy
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━default_local.policy
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━README.txt
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━java.security
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━java.policy
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━sound.properties
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━include
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━win32
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━jawt_md.h
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━bridge
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━AccessBridgePackages.h
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━AccessBridgeCallbacks.h
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━AccessBridgeCalls.h
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━jni_md.h
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━classfile_constants.h
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━jawt.h
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━jni.h
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━jvmti.h
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━jvmticmlr.h
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━bin
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━vcruntime140.dll
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━api-ms-win-core-errorhandling-l1-1-0.dll
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━prefs.dll
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━api-ms-win-crt-utility-l1-1-0.dll
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━jaccesswalker.exe
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━mlib_image.dll
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━kinit.exe
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━api-ms-win-crt-convert-l1-1-0.dll
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━api-ms-win-crt-stdio-l1-1-0.dll
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━sunec.dll
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━api-ms-win-crt-process-l1-1-0.dll
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━api-ms-win-core-memory-l1-1-0.dll
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━rmi.dll
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━api-ms-win-core-handle-l1-1-0.dll
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━lcms.dll
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━api-ms-win-core-synch-l1-2-0.dll
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━management.dll
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━rmiregistry.exe
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━api-ms-win-core-console-l1-1-0.dll
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━api-ms-win-crt-time-l1-1-0.dll
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━api-ms-win-core-console-l1-2-0.dll
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━api-ms-win-crt-heap-l1-1-0.dll
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━api-ms-win-core-libraryloader-l1-1-0.dll
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━jrunscript.exe
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━splashscreen.dll
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━fontmanager.dll
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━instrument.dll
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━javaaccessbridge.dll
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━api-ms-win-core-string-l1-1-0.dll
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━api-ms-win-crt-filesystem-l1-1-0.dll
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━javaw.exe
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━management_ext.dll
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━api-ms-win-core-file-l2-1-0.dll
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━sspi_bridge.dll
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━api-ms-win-crt-string-l1-1-0.dll
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━java.dll
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━java.exe
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━jaccessinspector.exe
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━jawt.dll
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━api-ms-win-crt-runtime-l1-1-0.dll
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━api-ms-win-core-profile-l1-1-0.dll
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━api-ms-win-core-timezone-l1-1-0.dll
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━api-ms-win-crt-conio-l1-1-0.dll
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━keytool.exe
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━sunmscapi.dll
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━nio.dll
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━api-ms-win-core-interlocked-l1-1-0.dll
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━vcruntime140_1.dll
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━w2k_lsa_auth.dll
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━verify.dll
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━api-ms-win-core-util-l1-1-0.dll
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━net.dll
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━api-ms-win-crt-multibyte-l1-1-0.dll
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━freetype.dll
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━api-ms-win-core-heap-l1-1-0.dll
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━api-ms-win-crt-environment-l1-1-0.dll
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━api-ms-win-core-synch-l1-1-0.dll
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━zip.dll
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━api-ms-win-core-file-l1-2-0.dll
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━jimage.dll
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━server
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━jvm.dll
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━j2pkcs11.dll
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━ucrtbase.dll
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━jabswitch.exe
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━api-ms-win-core-file-l1-1-0.dll
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━msvcp140.dll
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━klist.exe
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━api-ms-win-crt-locale-l1-1-0.dll
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━api-ms-win-core-datetime-l1-1-0.dll
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━api-ms-win-crt-private-l1-1-0.dll
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━api-ms-win-core-processthreads-l1-1-0.dll
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━windowsaccessbridge-64.dll
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━ktab.exe
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━api-ms-win-core-debug-l1-1-0.dll
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━api-ms-win-core-processenvironment-l1-1-0.dll
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━rmid.exe
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━api-ms-win-core-sysinfo-l1-1-0.dll
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━api-ms-win-crt-math-l1-1-0.dll
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━jli.dll
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━api-ms-win-core-processthreads-l1-1-1.dll
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━javajpeg.dll
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━jsound.dll
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━j2gss.dll
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━api-ms-win-core-namedpipe-l1-1-0.dll
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━api-ms-win-core-rtlsupport-l1-1-0.dll
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━jaas.dll
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━api-ms-win-core-localization-l1-2-0.dll
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━awt.dll
+┃  ┃  ┃  ┃  ┃  ┃  ┣━BurpSuiteLoader-UI.jar
+┃  ┃  ┃  ┃  ┃  ┃  ┣━BurpSuitePro.vmoptions
+┃  ┃  ┃  ┃  ┃  ┃  ┣━.install4j
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━autoUninstall.1
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━i4jdel.exe
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━i4j_extf_0_1dgj151.utf8
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━inst_jre.cfg
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━files.log
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━install.prop
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━i4jruntime.jar
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━user.jar
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━stats.properties
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━response.varfile
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━bgupdater.exe
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━installation.log
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━user
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━i4jparams.conf
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━MessagesDefault
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━i4j_extf_1_1dgj151.properties
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━i4j_extf_7_1dgj151_uyvyor.icns
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━i4jinst.dll
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━pref_jre.cfg
+┃  ┃  ┃  ┃  ┃  ┃  ┃  ┣━launchers.xml
+┃  ┃  ┃  ┃  ┃  ┃  ┣━BurpSuiteLoader.sh
+┃  ┃  ┃  ┃  ┃  ┃  ┣━Burp Suite Professional.vbs
+┃  ┃  ┃  ┃  ┃  ┃  ┣━BurpSuiteLoader.jar
+┃  ┃  ┃  ┃  ┃  ┃  ┣━BurpShiroPassiveScan-1.7.6.jar
+┃  ┃  ┃  ┃  ┃  ┃  ┣━BurpCustomizer-1.0.2.jar
+┃  ┃  ┃  ┣━10渗透测试中的常用编码
+┃  ┃  ┃  ┃  ┣━渗透测试中的常用编码.mp4
+┃  ┃  ┃  ┃  ┣━渗透测试中的常用编码.docx
+┃  ┃  ┃  ┣━08在物理机使用burpsuite2021.3版本
+┃  ┃  ┃  ┃  ┣━在物理机使用burpsuite2021.3版本 .mp4
+┃  ┃  ┣━WEB安全11 WEB安全漏洞与利用
+┃  ┃  ┃  ┣━WEB安全篇14SQLcookie注入原理与利用.mp4
+┃  ┃  ┃  ┣━WEB安全篇06SQLunion联合注入原理、白盒分析、黑盒测试.mp4
+┃  ┃  ┃  ┣━WEB安全篇10SQL时间注入与利用.mp4
+┃  ┃  ┃  ┣━WEB安全篇09SQL报错注入原理与利用.mp4
+┃  ┃  ┃  ┣━WEB安全篇08SQL布尔型盲注入与buspsuite配合获取数据.mp4
+┃  ┃  ┃  ┣━WEB安全篇 09 SQL报错注入原理与利用(2).mp4.mp4
+┃  ┃  ┃  ┣━WEB安全篇03与mysql注入的相关知识.mp4
+┃  ┃  ┃  ┣━WEB安全篇12SQL二次注入原理与攻击.mp4
+┃  ┃  ┃  ┣━WEB安全篇13SQL宽字节注入原理与利用.mp4
+┃  ┃  ┃  ┣━工具.zip
+┃  ┃  ┃  ┣━WEB安全篇04SQL注入原理.mp4
+┃  ┃  ┃  ┣━WEB安全篇01WEB安全靶场的搭建.mp4
+┃  ┃  ┃  ┣━WEB安全篇16httpxff头注入原理与利用.mp4
+┃  ┃  ┃  ┣━WEB安全篇02SQL注入漏洞注入与防御burpsuite与sqlmapper检测注入点.mp4
+┃  ┃  ┃  ┣━WEB安全篇11SQL堆叠注入原理与利用.mp4
+┃  ┃  ┃  ┣━WEB安全篇05SQL注入类型区分SQL注入的流程手工注入演示.mp4
+┃  ┃  ┃  ┣━WEB安全篇07SQL布尔型盲注入的原理与注入攻击.mp4
+┃  ┃  ┃  ┣━WEB安全篇15SQLbase64注入原理与利用.mp4
+┃  ┃  ┣━WEB安全04 html div css 博客项目
+┃  ┃  ┃  ┣━HTMLDIVCSS基础项目03博客网站主体右边的制作.mp4
+┃  ┃  ┃  ┣━HTMLDIVCSS基础项目02博客网站主体左边的制作.mp4
+┃  ┃  ┃  ┣━HTMLDIVCSS基础项目01博客网站布局设计和导航栏的编写.mp4
+┃  ┃  ┃  ┣━HTMLDIVCSS基础项目04博客网站主体底部的制作.mp4
+┃  ┃  ┃  ┣━blog
+┃  ┃  ┃  ┃  ┣━img
+┃  ┃  ┃  ┃  ┣━.project
+┃  ┃  ┃  ┃  ┣━css
+┃  ┃  ┃  ┃  ┃  ┣━style.css
+┃  ┃  ┃  ┃  ┣━index.html
+┃  ┃  ┃  ┃  ┣━js
+┃  ┃  ┃  ┣━blog.zip
+┃  ┃  ┣━WEB安全07 php安全开发博客系统
+┃  ┃  ┃  ┣━php安全开发07博客系统文章模块栏目分类的编写.mp4
+┃  ┃  ┃  ┣━php安全开发03博客系统后台登陆模块的处理和安全过滤.mp4
+┃  ┃  ┃  ┣━php安全开发18博客系统的首页的文章列表功能实现.mp4
+┃  ┃  ┃  ┣━php安全开发14博客系统的友情链接模块的编写.mp4
+┃  ┃  ┃  ┣━php安全开发 12 博客系统的 系统模块信息的修改.mp4
+┃  ┃  ┃  ┣━php安全开发13博客系统的栏目模块的编写.mp4
+┃  ┃  ┃  ┣━php安全开发21博客系统的前台列表页和博客项目的总结.mp4
+┃  ┃  ┃  ┣━php安全开发02博客系统网站目录创建和数据库引擎创建.mp4
+┃  ┃  ┃  ┣━WB安全 php 安全开发博客项目.doc
+┃  ┃  ┃  ┣━php安全开发15博客系统的用户修改模块与模板的细节处理.mp4
+┃  ┃  ┃  ┣━php安全开发16博客系统的退出功能和后台主页系统信息实现.mp4
+┃  ┃  ┃  ┣━php安全开发01博客系统表的创建.mp4
+┃  ┃  ┃  ┣━php安全开发04博客系统SESSION用户登陆验证和前台js登陆验证.mp4
+┃  ┃  ┃  ┣━php安全开发 10 博客系统 文章列表模块的分页编写.mp4
+┃  ┃  ┃  ┣━php安全开发06博客系统文章模块内容增加编写.mp4
+┃  ┃  ┃  ┣━php安全开发09博客系统文章模块的删除和查询文章分类编写.mp4
+┃  ┃  ┃  ┣━源码和数据库.zip
+┃  ┃  ┃  ┣━php安全开发 11 博客系统的 公共模块的建立和引入.mp4
+┃  ┃  ┃  ┣━php安全开发05博客系统套用模板主题修改登陆和后台样式.mp4
+┃  ┃  ┃  ┣━php安全开发19博客系统的详细文章页和侧边栏功能编写.mp4
+┃  ┃  ┃  ┣━php安全开发17博客系统的首页的头部功能实现.mp4
+┃  ┃  ┃  ┣━php安全开发20博客系统的后台分页bug调试与解决.mp4
+┃  ┃  ┃  ┣━php安全开发08博客系统文章模块的修改功能编写.mp4
+┃  ┃  ┣━WEB安全03 javascript 基础
+┃  ┃  ┃  ┣━javascript基础07循环流程终止.mp4
+┃  ┃  ┃  ┣━javascript基础04字典js序列号转义eval时间.mp4
+┃  ┃  ┃  ┣━javascript 基础.doc
+┃  ┃  ┃  ┣━javascript基础05面向对象原型.mp4
+┃  ┃  ┃  ┣━javascript基础10js课后练习题跑马灯搜索框.mp4
+┃  ┃  ┃  ┣━js.zip
+┃  ┃  ┃  ┣━javascript基础06运算符条件语句.mp4
+┃  ┃  ┃  ┣━javascript基础02js的数据类型数字字符串布尔null.mp4
+┃  ┃  ┃  ┣━javascript基础08js操作DOMjs查找更改.mp4
+┃  ┃  ┃  ┣━javascript基础01js的引入方法注释变量数据类型.mp4
+┃  ┃  ┃  ┣━javascript基础09js操作DOM增加属性更改属性定时器的使用案例.mp4
+┃  ┃  ┃  ┣━javascript基础03数组数组的操作遍历三种函数.mp4
+┃  ┣━实战项目
+┃  ┃  ┣━实战项目八 渗透高度安全的内网域控
+┃  ┃  ┃  ┣━项目八工具.zip
+┃  ┃  ┃  ┣━暗月实战项目八FBI.pdf
+┃  ┃  ┃  ┣━项目八录制笔记.txt
+┃  ┃  ┃  ┣━课件
+┃  ┃  ┃  ┃  ┣━项目八靶场.zip.001
+┃  ┃  ┃  ┃  ┣━项目八靶场.zip.002
+┃  ┃  ┃  ┃  ┣━项目八审核任务账号和密码.pdf
+┃  ┃  ┣━实战项目九 moonteam 不出网的内网多域控渗透
+┃  ┃  ┃  ┣━32暗月实战项目九 moonteam 不出网的内网多域控渗透
+┃  ┃  ┃  ┃  ┣━课件
+┃  ┃  ┃  ┃  ┃  ┣━项目九工具和笔记
+┃  ┃  ┃  ┃  ┃  ┃  ┣━Behinder.zip
+┃  ┃  ┃  ┃  ┃  ┃  ┣━暗月实战项目九 moonteam 不出网的情况下的多域控渗透.pdf
+┃  ┃  ┃  ┃  ┃  ┃  ┣━-中国菜刀（完整版）.rar
+┃  ┃  ┃  ┃  ┃  ┃  ┣━工具.rar
+┃  ┃  ┃  ┃  ┃  ┃  ┣━moontam工具集合.zip
+┃  ┃  ┃  ┃  ┃  ┃  ┣━kali最版下载和设置.txt
+┃  ┃  ┃  ┃  ┃  ┃  ┣━项目九多域控渗透账号和密码.pdf
+┃  ┃  ┃  ┃  ┃  ┃  ┣━项目九笔记.txt
+┃  ┃  ┃  ┃  ┃  ┃  ┣━笔记.docx
+┃  ┃  ┃  ┃  ┃  ┃  ┣━多域控.png
+┃  ┃  ┃  ┃  ┃  ┣━教程用到的虚拟机
+┃  ┃  ┃  ┃  ┃  ┃  ┣━Kali-Linux-2020.4-vmware-amd64.vmwarevm.7z
+┃  ┃  ┃  ┃  ┃  ┃  ┣━javaweb.7z
+┃  ┃  ┃  ┃  ┃  ┃  ┣━暗月扫描器.7z
+┃  ┃  ┃  ┃  ┃  ┃  ┣━ctfd-Ubuntu.7z
+┃  ┃  ┃  ┣━项目九工具和笔记.zip
+┃  ┃  ┣━实战项目十一 从外网打点到内网域实战cncat
+┃  ┃  ┃  ┣━项目十一工具.zip
+┃  ┃  ┃  ┣━项目十一cncat文档.zip
+┃  ┃  ┣━实战项目十 简单的APP渗透测试
+┃  ┃  ┃  ┣━FileScan
+┃  ┃  ┃  ┃  ┣━rule_parse.py
+┃  ┃  ┃  ┃  ┣━backup_rule.py
+┃  ┃  ┃  ┃  ┣━reque.pyc
+┃  ┃  ┃  ┃  ┣━README.md
+┃  ┃  ┃  ┃  ┣━rule_parse.pyc
+┃  ┃  ┃  ┃  ┣━backup_rule.pyc
+┃  ┃  ┃  ┃  ┣━filescan.py
+┃  ┃  ┃  ┃  ┣━reque.py
+┃  ┃  ┃  ┣━暗月实战项目十 app渗透到主机权限.pdf
+┃  ┃  ┃  ┣━www.app10.com.zip
+┃  ┃  ┃  ┣━Seay.zip
+┃  ┃  ┃  ┣━app-debug.zip
+┃  ┃  ┃  ┣━Fiddler
+┃  ┃  ┃  ┃  ┣━Fiddler.zip
+┃  ┃  ┃  ┃  ┣━使用更新说明.txt
+┃  ┃  ┃  ┣━FileScan.zip
+┃  ┃  ┃  ┣━app-debug.apk
+┃  ┃  ┃  ┣━账号和密码.txt
+┃  ┃  ┃  ┣━Fiddler.zip
+┃  ┃  ┣━实战项目一到七 项目实战
+┃  ┃  ┃  ┣━5-项目五linux内网完整渗透测试17linuxsuid提权.mp4
+┃  ┃  ┃  ┣━7-项目七 渗透有防护的内网域_02 masscan nmap 扫描带有防火墙的端口服务.mp4
+┃  ┃  ┃  ┣━7-项目七 渗透有防护的内网域_01 靶场环境的讲解和配置.mp4
+┃  ┃  ┃  ┣━5-项目五linux内网完整渗透测试24wdcp主机系统提权.mp4
+┃  ┃  ┃  ┣━6-项目六完整的内网域渗透_11metasploit开启代理跨路由使用proxychaninnmap扫描.mp4
+┃  ┃  ┃  ┣━6-项目六完整的内网域渗透_08metasploit收集hash明文凭证网络信息.mp4
+┃  ┃  ┃  ┣━7-项目七 渗透有防护的内网域_18 msf 正向木马免杀过360 全家桶.mp4
+┃  ┃  ┃  ┣━7-项目七 渗透有防护的内网域_20 跨网段proxychanins nmap对域控端口扫描.mp4
+┃  ┃  ┃  ┣━4-项目四完整的渗透测试实例_06metasploit提权WEB服务器.mp4
+┃  ┃  ┃  ┣━7-项目七 渗透有防护的内网域_16 对通达OA服务器进行信息收集.mp4
+┃  ┃  ┃  ┣━4-项目四完整的渗透测试实例_23多重网段内网渗透第三层SocksCap代理访问目标WEB服务器.mp4
+┃  ┃  ┃  ┣━6-项目六完整的内网域渗透_15metasploit获取域控登录凭证NTML明文.mp4
+┃  ┃  ┃  ┣━7-项目七 渗透有防护的内网域_09 密码找回漏洞和网站后台GETSHSLL.mp4
+┃  ┃  ┃  ┣━6-项目六完整的内网域渗透_06破解有验证码的后台和上传webshell.mp4
+┃  ┃  ┃  ┣━5-项目五linux内网完整渗透测试21linuxsocks5代理穿透内网.mp4
+┃  ┃  ┃  ┣━3-项目三11mvc框架前台越权漏洞任意订单删除漏洞.mp4
+┃  ┃  ┃  ┣━3-项目三10mvc框架前台越权漏洞任意订单查看漏洞.mp4
+┃  ┃  ┃  ┣━4-项目四完整的渗透测试实例_08.net系统的检测后台SQL注入.mp4
+┃  ┃  ┃  ┣━4-项目四完整的渗透测试实例_17使用mimikatz获取明文和哈希.mp4
+┃  ┃  ┃  ┣━6-项目六完整的内网域渗透_17metasploit域控权限维持制作黄金票据访问dc域控.mp4
+┃  ┃  ┃  ┣━4-项目四完整的渗透测试实例_02masscannmap的使用和信息收集.mp4
+┃  ┃  ┃  ┣━5-项目五linux内网完整渗透测试12编辑后台模板拿webshell.mp4
+┃  ┃  ┃  ┣━4-项目四完整的渗透测试实例_09.net系统留言板xss漏洞.mp4
+┃  ┃  ┃  ┣━5-项目五linux内网完整渗透测试15解决建立交互shell出现乱码的情况.mp4
+┃  ┃  ┃  ┣━3-项目三06mvc框架前台SQL注入漏洞二.mp4
+┃  ┃  ┃  ┣━3-项目三01mvc框架的流程分析.mp4
+┃  ┃  ┃  ┣━5-项目五linux内网完整渗透测试11PHP代码审计后台任意文件上传漏洞挖掘.mp4
+┃  ┃  ┃  ┣━7-项目七 渗透有防护的内网域_23 mimikatz pth 登录域控.mp4
+┃  ┃  ┃  ┣━1-项目实例一 01文档的一些说明.mp4
+┃  ┃  ┃  ┣━5-项目五linux内网完整渗透测试25三个flag的获取与项目总结.mp4
+┃  ┃  ┃  ┣━3-项目三13mvc框架后台白名单上传漏洞.mp4
+┃  ┃  ┃  ┣━7-项目七 渗透有防护的内网域_03 美化nmap 扫描报告.mp4
+┃  ┃  ┃  ┣━1-项目实例一 04 漏扫工具结果与验证二.mp4
+┃  ┃  ┃  ┣━3-项目三05mvc框架前台SQL注入漏洞一.mp4
+┃  ┃  ┃  ┣━3-项目三02mvc框架核心过滤文件分析.mp4
+┃  ┃  ┃  ┣━4-项目四完整的渗透测试实例_21多重网段内网渗透第三层网络渗透目标WEB服务器.mp4
+┃  ┃  ┃  ┣━3-项目三15mvc框架后台遗留网站管理员账号.mp4
+┃  ┃  ┃  ┣━4-项目四完整的渗透测试实例_07gobuster的目录扫描使用.mp4
+┃  ┃  ┃  ┣━5-项目五linux内网完整渗透测试22设置浏览器代理穿透内网上传webshell.mp4
+┃  ┃  ┃  ┣━7-项目七 渗透有防护的内网域_15 对通达OA 办公系统进行getshsell 和设置中国蚁剑代理连接shell.mp4
+┃  ┃  ┃  ┣━1-项目实例一 03 漏扫工具结果与验证.mp4
+┃  ┃  ┃  ┣━5-项目五linux内网完整渗透测试09PHP代码审计数据库连接业务漏洞.mp4
+┃  ┃  ┃  ┣━4-项目四完整的渗透测试实例_18多重网段内网渗透socket代理proxychains设置nmap的扫描.mp4
+┃  ┃  ┃  ┣━1-项目实例一 05 漏扫工具结果与验证三.mp4
+┃  ┃  ┃  ┣━3-项目三09mvc框架前台编辑器xss漏洞.mp4
+┃  ┃  ┃  ┣━7-项目七 渗透有防护的内网域_19 收集整理分析内网域的信息.mp4
+┃  ┃  ┃  ┣━5-项目五linux内网完整渗透测试20metaasploit开启代理穿透内网.mp4
+┃  ┃  ┃  ┣━2-项目二01发卡系统环境的搭建.mp4
+┃  ┃  ┃  ┣━7-项目七 渗透有防护的内网域_22 mimikatz免杀过360全家桶.mp4
+┃  ┃  ┃  ┣━4-项目四完整的渗透测试实例_11.net代码审计反编译dll.mp4
+┃  ┃  ┃  ┣━4-项目四完整的渗透测试实例_19多重网段内网渗透数据库服务器.mp4
+┃  ┃  ┃  ┣━7-项目七 渗透有防护的内网域_07 dnspy 反编译dll查找加密和解密方法.mp4
+┃  ┃  ┃  ┣━3-项目三08mvc框架前台密码找回漏洞.mp4
+┃  ┃  ┃  ┣━5-项目五linux内网完整渗透测试13bypass_disablefunc执行命令.mp4
+┃  ┃  ┃  ┣━7-项目七 渗透有防护的内网域_06 绕过iis安全狗进行注入得到账号和密文.mp4
+┃  ┃  ┃  ┣━6-项目六完整的内网域渗透_04编写thinkphp3日志泄露工具.mp4
+┃  ┃  ┃  ┣━5-项目五linux内网完整渗透测试07PHP代码审计文件包含漏洞挖掘与利用.mp4
+┃  ┃  ┃  ┣━6-项目六完整的内网域渗透_20CobaltStrikems14-08(cve-2014-6324)普通域用户提权到域控.mp4
+┃  ┃  ┃  ┣━4-项目四完整的渗透测试实例_03绑定网关和wfuzz子域名收集.mp4
+┃  ┃  ┃  ┣━4-项目四完整的渗透测试实例_14.net代码审计前台xss漏洞挖掘.mp4
+┃  ┃  ┃  ┣━5-项目五linux内网完整渗透测试14metasploit生成攻击载荷和监听建立交互shell.mp4
+┃  ┃  ┃  ┣━5-项目五linux内网完整渗透测试16linux提权三大信息收集工具的使用和说明LinEnumlinux-exploit-suggesterlinuxprivchecker.mp4
+┃  ┃  ┃  ┣━6-项目六完整的内网域渗透_05子域名hosts碰撞找后台.mp4
+┃  ┃  ┃  ┣━7-项目七 渗透有防护的内网域_17 关闭OA服务器系统自带的防火墙.mp4
+┃  ┃  ┃  ┣━7-项目七 渗透有防护的内网域_21 利用kiwi dcsync_ntml获取域管理员的ntml.mp4
+┃  ┃  ┃  ┣━4-项目四完整的渗透测试实例_15c#编写DESC解密工具.mp4
+┃  ┃  ┃  ┣━4-项目四完整的渗透测试实例_01环境的搭建.mp4
+┃  ┃  ┃  ┣━5-项目五linux内网完整渗透测试03gobuster的高级用法.mp4
+┃  ┃  ┃  ┣━7-项目七 渗透有防护的内网域_04 编写目录扫描工具过防火墙CC拦截.mp4
+┃  ┃  ┃  ┣━4-项目四完整的渗透测试实例_04dedecms内容管理系统安全检测.mp4
+┃  ┃  ┃  ┣━1-项目实例一 06手工挖掘漏洞.mp4
+┃  ┃  ┃  ┣━6-项目六完整的内网域渗透_01靶场环境的搭建和配置.mp4
+┃  ┃  ┃  ┣━6-项目六完整的内网域渗透_16metasploit开启域控远程端终并登录到桌面.mp4
+┃  ┃  ┃  ┣━7-项目七 渗透有防护的内网域_14 设置代理nmap对跨网段主机端口扫描探测.mp4
+┃  ┃  ┃  ┣━7-项目七 渗透有防护的内网域_08 C#编写siteserver密文解密工具.mp4
+┃  ┃  ┃  ┣━2-项目二04发卡系统后台漏洞挖掘与复现.mp4
+┃  ┃  ┃  ┣━5-项目五linux内网完整渗透测试02masscannmaphosts绑定.mp4
+┃  ┃  ┃  ┣━4-项目四完整的渗透测试实例_24多重网段内网渗透第三层metasploit正向连接目标WEB服务器.mp4
+┃  ┃  ┃  ┣━7-项目七 渗透有防护的内网域_10 Windows Server 2016 提权.mp4
+┃  ┃  ┃  ┣━5-项目五linux内网完整渗透测试05PHP代码审计编码二次注入挖掘与SQLMAP编码注入检测.mp4
+┃  ┃  ┃  ┣━1-项目实例一 07 Nessus工具的使用和实例项目的总结.mp4
+┃  ┃  ┃  ┣━7-项目七 渗透有防护的内网域_25 拿到flag和项目7总结.mp4
+┃  ┃  ┃  ┣━4-项目四完整的渗透测试实例_10sqlmap测试.net系统安全.mp4
+┃  ┃  ┃  ┣━6-项目六完整的内网域渗透_19CobaltStrike获取信任主机hash和明文导出.mp4
+┃  ┃  ┃  ┣━7-项目七 渗透有防护的内网域_24 破解域控NTLM并登录域控.mp4
+┃  ┃  ┃  ┣━4-项目四完整的渗透测试实例_22多重网段内网渗透第三层PYTHON编写phpstudy后门利用工具.mp4
+┃  ┃  ┃  ┣━6-项目六完整的内网域渗透_22CobaltStrike域控权限维持制作黄金票据.mp4
+┃  ┃  ┃  ┣━2-项目二02发卡系统的流程分析.mp4
+┃  ┃  ┃  ┣━6-项目六完整的内网域渗透_13metasploitms14-068（CVE-2014-6324）普通用户提权到域控.mp4
+┃  ┃  ┃  ┣━4-项目四完整的渗透测试实例_12.net代码审计后台SQL注入漏洞挖掘.mp4
+┃  ┃  ┃  ┣━3-项目三03mcv框架分析值获取流程phpstrom_xdebug.mp4
+┃  ┃  ┃  ┣━5-项目五linux内网完整渗透测试06PHP代码审计登录密文分析.mp4
+┃  ┃  ┃  ┣━3-项目三04mvc框架的model分析.mp4
+┃  ┃  ┃  ┣━5-项目五linux内网完整渗透测试10替换密文登录后台.mp4
+┃  ┃  ┃  ┣━6-项目六完整的内网域渗透_10metasploit域内主机分析和整理.mp4
+┃  ┃  ┃  ┣━6-项目六完整的内网域渗透_07metasploit提权.mp4
+┃  ┃  ┃  ┣━5-项目五linux内网完整渗透测试23中国菜刀和中国蚁剑穿透内网.mp4
+┃  ┃  ┃  ┣━7-项目七 渗透有防护的内网域_05 修改siteserver poc得到注入点.mp4
+┃  ┃  ┃  ┣━5-项目五linux内网完整渗透测试01环境的搭建.mp4
+┃  ┃  ┃  ┣━6-项目六完整的内网域渗透_03SVN源码泄露漏洞详细利用.mp4
+┃  ┃  ┃  ┣━5-项目五linux内网完整渗透测试04PHP代码审计主要过滤函数分析.mp4
+┃  ┃  ┃  ┣━1-项目实例一 02环境的搭建.mp4
+┃  ┃  ┃  ┣━6-项目六完整的内网域渗透_02服务器和web信息的收集.mp4
+┃  ┃  ┃  ┣━7-项目七 渗透有防护的内网域_11 msf shellcode 绕过windows  defender查杀.mp4
+┃  ┃  ┃  ┣━2-项目二03发卡系统的前漏洞挖掘与复现.mp4
+┃  ┃  ┃  ┣━3-项目三14mvc框架后台编辑器xss漏洞.mp4
+┃  ┃  ┃  ┣━4-项目四完整的渗透测试实例_16net代码审计后台验证码可重复使用.mp4
+┃  ┃  ┃  ┣━4-项目四完整的渗透测试实例_20多重网段内网渗透获取数据库服务器哈希和明文.mp4
+┃  ┃  ┃  ┣━5-项目五linux内网完整渗透测试19linux宝塔控制面板提权.mp4
+┃  ┃  ┃  ┣━3-项目三07mvc框架前台验证码可重用漏洞.mp4
+┃  ┃  ┃  ┣━6-项目六完整的内网域渗透_12metasploit永恒之蓝ms17_010的使用.mp4
+┃  ┃  ┃  ┣━3-项目三12mvc框架后台验证码可重用.mp4
+┃  ┃  ┃  ┣━6-项目六完整的内网域渗透_14metasploit生成正向攻击载荷获取域控系统权限.mp4
+┃  ┃  ┃  ┣━2-项目二05发卡系统的审计补充.mp4
+┃  ┃  ┃  ┣━5-项目五linux内网完整渗透测试08mysql客户端任意读取文件漏洞利用.mp4
+┃  ┃  ┃  ┣━7-项目七 渗透有防护的内网域_12 hashcat破解WEB服务器hash.mp4
+┃  ┃  ┃  ┣━4-项目四完整的渗透测试实例_05中国蚁剑的基础使用.mp4
+┃  ┃  ┃  ┣━6-项目六完整的内网域渗透_09metasploit是否在域内和找域控位置.mp4
+┃  ┃  ┃  ┣━6-项目六完整的内网域渗透_21CobaltStrike域控权限的获取和哈希明文收集.mp4
+┃  ┃  ┃  ┣━4-项目四完整的渗透测试实例_13.net代码审计编辑器漏洞挖掘.mp4
+┃  ┃  ┃  ┣━4-项目四完整的渗透测试实例_25四个flag的获取和项目总结.mp4
+┃  ┃  ┃  ┣━5-项目五linux内网完整渗透测试18linuxsudo提权.mp4
+┃  ┃  ┃  ┣━6-项目六完整的内网域渗透_18CobaltStriketeamserver搭建和web服务器上线.mp4
+┃  ┃  ┃  ┣━7-项目七 渗透有防护的内网域_13 跨网段横行渗透主机发现.mp4
+┃  ┣━靶场
+┃  ┃  ┣━项目九 靶场
+┃  ┃  ┃  ┣━必看.txt
+┃  ┃  ┃  ┣━项目九靶场.part05.rar
+┃  ┃  ┃  ┣━项目九靶场.part07.rar
+┃  ┃  ┃  ┣━项目九靶场.part02.rar
+┃  ┃  ┃  ┣━项目九靶场.part06.rar
+┃  ┃  ┃  ┣━项目九靶场.part03.rar
+┃  ┃  ┃  ┣━项目九靶场.part01.rar
+┃  ┃  ┃  ┣━项目九靶场.part04.rar
+┃  ┃  ┣━项目三 靶场
+┃  ┃  ┃  ┣━项目三调试虚拟机.zip
+┃  ┃  ┣━项目一 靶场
+┃  ┃  ┃  ┣━项目一靶机.zip
+┃  ┃  ┣━项目六 靶场
+┃  ┃  ┃  ┣━项目六靶场.zip
+┃  ┃  ┣━1.rar
+┃  ┃  ┣━项目二 靶场
+┃  ┃  ┣━项目五 靶场
+┃  ┃  ┃  ┣━项目五靶机.zip
+┃  ┃  ┣━项目八 靶场
+┃  ┃  ┃  ┣━项目八审核任务账号和密码.pdf
+┃  ┃  ┃  ┣━项目八靶场.zip.001
+┃  ┃  ┃  ┣━项目八靶场.zip.002
+┃  ┃  ┃  ┣━实战项目八 渗透高度安全的内网域控.zip
+┃  ┃  ┣━项目七 靶场
+┃  ┃  ┃  ┣━项目七靶场.zip.003
+┃  ┃  ┃  ┣━项目七靶场.zip.002
+┃  ┃  ┃  ┣━项目七靶场.zip.001
+┃  ┃  ┣━靶机镜像
+┃  ┃  ┃  ┣━暗月靶机测试系统.zip
+┃  ┃  ┃  ┣━cetnos55.zip
+┃  ┃  ┃  ┣━jsp+oracle.zip
+┃  ┃  ┃  ┣━Ubuntu.zip
+┃  ┃  ┃  ┣━靶机【win2008】.zip
+┃  ┃  ┃  ┣━Ubuntu15.5.zip
+┃  ┃  ┃  ┣━Windows Server 2003 Standard x64 Edition.zip
+┃  ┃  ┣━项目四 靶场
+┃  ┃  ┃  ┣━项目四靶机.part1.rar
+┃  ┃  ┃  ┣━项目四靶机.part2.rar
