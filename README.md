@@ -9,3 +9,7 @@ https://t.me/awsmail
 
 https://vercel.com/
 代码部署
+
+
+python默认版本切换
+https://zhuanlan.zhihu.com/p/259380080
