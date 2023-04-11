@@ -13,3 +13,7 @@ https://vercel.com/
 
 python默认版本切换
 https://zhuanlan.zhihu.com/p/259380080
+
+
+zabbix接入企业微信告警
+https://bbs.huaweicloud.com/blogs/374992
