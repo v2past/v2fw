@@ -1,6 +1,9 @@
 # iptables-forward
 bash iptables-forward.sh
 
+# 运维之旅
+- [Chrisjing的Iaas运维之旅]()http://39.106.94.54:50000/000a-%E8%BF%90%E7%BB%B4%E4%B9%8B%E6%97%85%E8%A7%86%E9%A2%91/000-21-Chrisjing%E7%9A%84iaas%E8%BF%90%E7%BB%B4%E4%B9%8B%E6%97%85/
+
 # wireguard
 - [WireGuard 教程：使用 DNS-SD 进行 NAT-to-NAT 穿透](https://icloudnative.io/posts/wireguard-endpoint-discovery-nat-traversal/)
 - [Windows,WireGuard配置NAT,简单方法](https://linuxword.com/?p=20085)
