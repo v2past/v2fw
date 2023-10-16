@@ -4,6 +4,7 @@ bash iptables-forward.sh
 # wireguard
 - [WireGuard 教程：使用 DNS-SD 进行 NAT-to-NAT 穿透](https://icloudnative.io/posts/wireguard-endpoint-discovery-nat-traversal/)
 - [Windows,WireGuard配置NAT,简单方法](https://linuxword.com/?p=20085)
+- [图形化Wireguard](https://github.com/subspacecloud/subspace)
 
 
 # HeadScale
