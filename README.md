@@ -16,6 +16,9 @@ bash iptables-forward.sh
 - [Tailscale 基础教程：部署私有 DERP 中继服务器](https://icloudnative.io/posts/custom-derp-servers/)
 - [Wireguard 全互联模式（full mesh）配置指南](https://icloudnative.io/posts/wireguard-full-mesh/)
 
+# 模拟器各类
+- [EVE模拟器](https://eve-ng.cn/doku.php?id=wget:download)
+
 
 # 云原生导航
 - [原生导航](https://nav.ryanyang.workers.dev/)
