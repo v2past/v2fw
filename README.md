@@ -1,3 +1,13 @@
+# 大数据学习
+- [大数据学习路线](https://github.com/heibaiying/BigData-Notes/blob/master/notes/%E5%A4%A7%E6%95%B0%E6%8D%AE%E5%AD%A6%E4%B9%A0%E8%B7%AF%E7%BA%BF.md)
+- [数据中台实战](https://github.com/sfzsjx/document_classfication/blob/master/%E5%A4%A7%E6%95%B0%E6%8D%AE%E6%8A%80%E6%9C%AF%E6%A0%88/%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%8F%B0/%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%8F%B0%E5%AE%9E%E6%88%98-%E9%83%AD%E5%BF%86.md)
+- [emr计算框架](https://support.huaweicloud.com/cmpntguide-mrs/mrs_01_1067.html)
+- [火山emr](https://www.volcengine.com/docs/6491/1134302)
+
+# 消息队列
+- [消息队列基础](https://kiosk007.top/post/%E6%B6%88%E6%81%AF%E9%98%9F%E5%88%97%E5%9F%BA%E7%A1%80/)
+
+
 # iptables-forward
 bash iptables-forward.sh
 
@@ -35,3 +45,6 @@ https://zhuanlan.zhihu.com/p/259380080
 
 # zabbix接入企业微信告警
 https://bbs.huaweicloud.com/blogs/374992
+
+
+
